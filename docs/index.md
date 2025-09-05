@@ -27,6 +27,6 @@ Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Jacob Alger            | [JacobAlger.GitHub](https://jacob-alger.github.io/)|
-| Name #2                | link |
+| Isaiah Johnston        | https://isaiahcmd.github.io/ |
 | Name #3                | link |
 | Name #4                | link |
