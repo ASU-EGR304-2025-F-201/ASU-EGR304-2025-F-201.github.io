@@ -8,7 +8,7 @@ tags:
 ## Team Goals
 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
-1. ...
+1. Enhance skills to expand our skillset
 2. ...
 3. ...
 4. ...
@@ -48,8 +48,8 @@ _**Appendix Table 2**: Weekly Schedule_
 | 1:00 PM | - | - | - | - | - | J | - |
 | 2:00 PM | - | - | - | - | - | J | - |
 | 3:00 PM | - | - | - | - | - | J | - |
-| 4:00 PM | - | - | - | - | - | J | - |
-| 5:00 PM | - | - | - | - | - | - | - |
+| 4:00 PM | - | J | J | J | J | J | - |
+| 5:00 PM | - | J | J | J | J | J | - |
 | 6:00 PM | - | - | - | - | - | - | - |
 | 7:00 PM | - | - | - | - | - | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
