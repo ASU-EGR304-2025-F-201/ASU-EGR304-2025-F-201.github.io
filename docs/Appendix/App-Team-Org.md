@@ -8,6 +8,11 @@ tags:
 ## Team Goals
 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+1. ...
+2. ...
+3. ...
+4. ...
+5. ...
 
 ## Communication Channels
 
@@ -15,7 +20,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
-|Member 1 |  ? | ? | ? |
+|Jacob |  Text | Phone | Email |
 |Member 2 |  ? | ? | ? |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
@@ -35,29 +40,29 @@ _**Appendix Table 2**: Weekly Schedule_
 
 | Time | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
-| 8:00 AM | - | - | M | - | M | - | - |
-| 9:00 AM | - | F | M | - | M | - | - |
-| 10:00 AM | - | B | M | - | M | - | - |
-| 11:00 AM | - | B | M | - | M | - | - |
-| 12:00 PM | Z | B, Z | M | - | M | - | - |
-| 1:00 PM | Z, F |  | M | - | M | - | - |
-| 2:00 PM | Z, F | - | M | - | M | - | - |
-| 3:00 PM | Z | - | M | - | M | - | - |
-| 4:00 PM | - | - | M | - | M | - | - |
-| 5:00 PM | - | - | M | - | M | - | - |
-| 6:00 PM | - | - | M | - | M | - | - |
-| 7:00 PM | - | - | M | - | M | - | - |
-| 8:00 PM | - | - | M | - | M | - | - |
-| 9:00 PM | - | - | M | - | M | - | - |
+| 8:00 AM | - | - | - | - | - | - | - |
+| 9:00 AM | - | - | - | - | - | - | - |
+| 10:00 AM | - | J | - | J | - | J | - |
+| 11:00 AM | - | J | - | J | - | J | - |
+| 12:00 PM | - | J | - | J | - | J | - |
+| 1:00 PM | - | - | - | - | - | J | - |
+| 2:00 PM | - | - | - | - | - | J | - |
+| 3:00 PM | - | - | - | - | - | J | - |
+| 4:00 PM | - | - | - | - | - | J | - |
+| 5:00 PM | - | - | - | - | - | - | - |
+| 6:00 PM | - | - | - | - | - | - | - |
+| 7:00 PM | - | - | - | - | - | - | - |
+| 8:00 PM | - | - | - | - | - | - | - |
+| 9:00 PM | - | - | - | - | - | - | - |
 
 _**Table Legend for Appendix Table 2**_
 
 | Name | Abbreviation |
 | ----- | :------: |
-| Bill | B |
-| Mary | M |
-| Zane | Z |
-| Felicity | F |
+| Jacob | J |
+| Member 2 | - |
+| Member 3 | - |
+| Member 4 | - |
 
 
 ## Meeting Coordination
