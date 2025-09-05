@@ -5,13 +5,18 @@ tags:
 - tag2
 ---
 <center>
-<font size="8">Project Name<br>
+<font size="8">Home Improvement Design Project<br>
 <font size="5">Team 201<br>
+**Team Members:<br>
+Jacob Alger<br>
+Raunak Singh Chhabra<br>
+Isaiah Johnston<br>
+Rylee Wirt<br>
 **Submission: September, 05, 2025**<br>
 Fall 2025<br>
 <font size="4">Arizona State University<br>
 **EGR 304**<br>
-Kevin Nichols<br>
+Professor: Kevin Nichols<br>
   
 
 </center>
