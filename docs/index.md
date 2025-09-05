@@ -7,7 +7,7 @@ tags:
 <center>
 <font size="8">Home Improvement Design Project<br>
 <font size="5">Team 201<br>
-**Team Members:<br>
+**Team Members:**<br>
 Jacob Alger<br>
 Raunak Singh Chhabra<br>
 Isaiah Johnston<br>
@@ -32,6 +32,6 @@ Professor: Kevin Nichols<br>
 | **Team Member**        |**Ind Datasheet Links** |
 | ---------------------- | -----------------------|
 | Jacob Alger            | [JacobAlger.GitHub](https://jacob-alger.github.io/)|
-| Isaiah Johnston        | https://isaiahcmd.github.io/ |
-| Name #3                | link |
-| Name #4                | link |
+| Isaiah Johnston        | [Isaiahcmd.GitHub](https://isaiahcmd.github.io/)|
+| Name #3                | [x.GitHub](link)|
+| Name #4                | [x.GitHub](link)|
