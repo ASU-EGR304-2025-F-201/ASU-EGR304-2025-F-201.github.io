@@ -84,7 +84,8 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Conflict Recognition & Resolution
 
-Need to add content!!
+In the event of an internal team conflict the team will call a meeting and the issue will be discused. The team will work together to develope a plan to address and move passed the conflict. The exact nature of how this will be done will depend on each individual situation.
+Example: A team member has an idea of how to move forward with the project, one member agrees, the other two do not. A meeting will be called the folling day and both sides will present their case. The issue will be put to a vote and the team will abide by the outcome of the vote...
 
 
 ## Signatures
