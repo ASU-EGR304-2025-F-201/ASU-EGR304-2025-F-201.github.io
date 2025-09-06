@@ -78,7 +78,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader-Isaiah   | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Meeting recorder  - Raunak Singh | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader - Jacob Alger | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor - Rylee Wirt   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
