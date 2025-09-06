@@ -22,18 +22,17 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Jacob |  Text | Phone | Email |
 |Rylee |  Text | Email | Phone |
-|Member 3 |  ? | ? | ? |
+|Member 3 |  Text | Email | Phone |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
 
-Based on the information provided on in the "Team Member Communication Modes," the group primary method of communication is ......
+Based on the information provided in the "Team Member Communication Modes," the group primary method of communication is text and email for documents and digital media. The team will use phone calls as a secondary means of comunication.
  
 ## Communication Procedures
 
-1. How will your team communicate?
-2. How will you handle instructor correspondence? Who is responsible? How will that be communicated with/back to the group?
-
+1. The primary channel for comunication will be via text. Documents and digital media will be shared via email or dropbox. Phone calls will be used as a tertiary communication method. The members of the team will avoid, when possible, sending texts after 9pm. If a team member is unable to be reached via text, during a time it would be reasonable to assume they could answer, or in the case they are late for a meeting, a phone call will be made to the missing member.
+2. When correspondance with the instructor is required it will be handeled by the team leader. The team leader will relay the information to the team via text and/or address the information in the next meeting.
 ## Meeting Schedule
 
 _**Appendix Table 2**: Weekly Schedule_
@@ -42,16 +41,16 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | J RY | - | J RY | - | J | - |
-| 11:00 AM | - | J RY | - | J RY | - | J | - |
-| 12:00 PM | - | J RY | - | J RY | - | J RY | RY |
-| 1:00 PM | - | - | - | - | - | J RY | RY |
-| 2:00 PM | - | - | - | - | - | J RY | RY |
-| 3:00 PM | - | - | - | - | - | J RY | RY |
-| 4:00 PM | - | J RY | J | J | J | J RY | RY |
-| 5:00 PM | - | J RY| J RY | J | J RY | J RY | RY |
-| 6:00 PM | - | RY | RY | - | RY | RY | RY |
-| 7:00 PM | - | RY | RY | - | RY | - | - |
+| 10:00 AM | - | J RY I | - | J RY I | - | J | - |
+| 11:00 AM | - | J RY I | - | J RY I | - | J | - |
+| 12:00 PM | - | J RY I | - | J RY I | - | J RY I | RY |
+| 1:00 PM | - | - | - | - | - | J RY I | RY |
+| 2:00 PM | - | - | I | - | I | J RY I | RY |
+| 3:00 PM | - | - | I | - | I | J RY I | RY |
+| 4:00 PM | - | J RY I | J | J I | J | J RY | RY |
+| 5:00 PM | - | J RY I | J RY | J I | J RY | J RY | RY |
+| 6:00 PM | - | RY I | RY I | I | RY I | RY | RY |
+| 7:00 PM | - | RY I | RY I | I | RY I | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
 | 9:00 PM | - | - | - | - | - | - | - |
 
@@ -61,7 +60,7 @@ _**Table Legend for Appendix Table 2**_
 | ----- | :------: |
 | Jacob | J |
 | Rylee | RY |
-| Member 3 | - |
+| Isaiah | I |
 | Member 4 | - |
 
 
