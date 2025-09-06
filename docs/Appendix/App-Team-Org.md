@@ -7,8 +7,6 @@ tags:
 
 ## Team Goals
 
-List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
-
 1. Enhance skills to expand our skillset
 2. Learn how to collaborate with a team to make an effective product
 3. Minimized product cost and maximize utility
@@ -28,12 +26,12 @@ _**Appendix Table 1**: Team Member Communication Modes_
 
 ### Main Method for Group Communication
 
-Based on the information provided in the "Team Member Communication Modes," the group primary method of communication is text and email for documents and digital media. The team will use phone calls as a secondary means of comunication.
+Based on the information provided in the "Team Member Communication Modes," the group's primary method of communication is text and email for documents and digital media. The team will use phone calls as a secondary means of communication.
  
 ## Communication Procedures
 
-1. The primary channel for comunication will be via text. Documents and digital media will be shared via email or dropbox. Phone calls will be used as a tertiary communication method. The members of the team will avoid, when possible, sending texts after 9pm. If a team member is unable to be reached via text, during a time it would be reasonable to assume they could answer, or in the case they are late for a meeting, a phone call will be made to the missing member.
-2. When correspondance with the instructor is required it will be handeled by the team leader. The team leader will relay the information to the team via text and/or address the information in the next meeting.
+1. The primary channel for communication will be via text. Documents and digital media will be shared via email or Dropbox. Phone calls will be used as a tertiary communication method. The members of the team will avoid, when possible, sending texts after 9:00 pm. If a team member is unable to be reached via text, during a time when it would be reasonable to assume they could answer, or in the case they are late for a meeting, a phone call will be made to the missing member.
+2. When correspondence with the instructor is required, it will be handled by the team leader. The team leader will relay the information to the team via text and/or address the information in the next meeting.
 
 ## Meeting Schedule
 
@@ -81,13 +79,13 @@ _**Appendix Table 2**: Project Roles and Duties_
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
 | Meeting leader-Isaiah   | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Assignment leader - Jacob Alger | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor - Rylee Wirt   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Conflict Recognition & Resolution
 
-In the event of an internal team conflict the team will call a meeting and the issue will be discused. The team will work together to develope a plan to address and move passed the conflict. The exact nature of how this will be done will depend on each individual situation.
-Example: A team member has an idea of how to move forward with the project, one member agrees, the other two do not. A meeting will be called the following day and both sides will present their case. The issue will be put to a vote and the team will abide by the outcome of the vote. In the event of a tie, each side of the conflict will make a pros cons list of the oppositions idea and a second vote will be taken. If team members do not fully attempt to make a pros cons list of the other side it will be an automatic rejection of their sides idea. If after a second vote there is still a tie the team leader will schedule a meeting during office hours in order to have an unbiased mediator to assist in the resolution.
+In the event of an internal team conflict, the team will call a meeting, and the issue will be discussed. The team will work together to develop a plan to address and move past the conflict. The exact nature of how this will be done will depend on each individual situation.
+Example: A team member has an idea of how to move forward with the project, one member agrees, the other two do not. A meeting will be called the following day, and both sides will present their case. The issue will be put to a vote, and the team will abide by the outcome of the vote. In the event of a tie, each side of the conflict will make a pros and cons list of the opposition's idea, and a second vote will be taken. If team members do not fully attempt to make a pros and cons list of the other side, it will be an automatic rejection of their side's idea. If, after a second vote, there is still a tie, the team leader will schedule a meeting during office hours in order to have an unbiased mediator to assist in the resolution.
 
 
 ## Signatures
