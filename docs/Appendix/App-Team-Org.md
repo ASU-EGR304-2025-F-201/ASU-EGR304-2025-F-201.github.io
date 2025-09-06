@@ -22,7 +22,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Jacob |  Text | Phone | Email |
 |Rylee |  Text | Email | Phone |
 |Isaiah |  Text | Email | Phone |
-|Member 4 |  ? | ? | ? |
+|Raunak |  Text | Email | Phone |
 
 ### Main Method for Group Communication
 
