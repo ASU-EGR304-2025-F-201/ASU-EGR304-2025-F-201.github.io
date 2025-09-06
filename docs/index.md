@@ -33,5 +33,5 @@ Professor: Kevin Nichols<br>
 | ---------------------- | -----------------------|
 | Jacob Alger            | [JacobAlger.GitHub](https://jacob-alger.github.io/)|
 | Isaiah Johnston        | [Isaiahcmd.GitHub](https://isaiahcmd.github.io/)|
-| Name #3                | [x.GitHub](link)|
+| Raunak Singh           | [Ronnie772.GitHub](https://ronnie772.github.io)|
 | Name #4                | [x.GitHub](link)|
