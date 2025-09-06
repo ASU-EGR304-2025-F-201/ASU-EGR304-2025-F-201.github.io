@@ -68,10 +68,10 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1. What method will you use to remind yourselves of meetings (a shared calendar?)
-1. How will your team go about changing or adding meeting times?
-1. What's the preferred format for meetings (face-to-face or virtually)?
-1. Are there any other procedures that your team feels are necessary?
+1.Team 201 will use a shared calendar to schedual meetings.
+1. A schedule will be set in an online calendar if changes need to be made a group text will be sent notifying the rest of the team of the changes.
+1. In person meetings will be held when possible and convenient. If in person is not feasable we will meet virtually.
+1. Team members will inform others via group text if they will be late
 
 ## Roles & Responsibilities
 
@@ -79,7 +79,7 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader    | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting leader-Isaiah   | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
 | Meeting recorder  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
 | Assignment leader | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor - Rylee Wirt   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
