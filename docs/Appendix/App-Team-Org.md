@@ -8,6 +8,7 @@ tags:
 ## Team Goals
 
 List at least five shared goals that reflect a successful product with regard to EGR3X4. Focus on team / product goals that are deeper than "getting an A".
+
 1. Enhance skills to expand our skillset
 2. Learn how to collaborate with a team to make an effective product
 3. Minimized product cost and maximize utility
@@ -22,7 +23,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Jacob |  Text | Phone | Email |
 |Rylee |  Text | Email | Phone |
-|Member 3 |  Text | Email | Phone |
+|Isaiah |  Text | Email | Phone |
 |Member 4 |  ? | ? | ? |
 
 ### Main Method for Group Communication
@@ -33,6 +34,7 @@ Based on the information provided in the "Team Member Communication Modes," the 
 
 1. The primary channel for comunication will be via text. Documents and digital media will be shared via email or dropbox. Phone calls will be used as a tertiary communication method. The members of the team will avoid, when possible, sending texts after 9pm. If a team member is unable to be reached via text, during a time it would be reasonable to assume they could answer, or in the case they are late for a meeting, a phone call will be made to the missing member.
 2. When correspondance with the instructor is required it will be handeled by the team leader. The team leader will relay the information to the team via text and/or address the information in the next meeting.
+
 ## Meeting Schedule
 
 _**Appendix Table 2**: Weekly Schedule_
