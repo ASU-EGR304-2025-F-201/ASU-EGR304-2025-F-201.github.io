@@ -21,7 +21,7 @@ _**Appendix Table 1**: Team Member Communication Modes_
 |Name                 | First Choice Communication | Second Choice Communication | Third Choice Communication |
 |---------------------|----------------------------|-----------------------------|----------------------------|
 |Jacob |  Text | Phone | Email |
-|Member 2 |  ? | ? | ? |
+|Rylee |  Text | Email | Phone |
 |Member 3 |  ? | ? | ? |
 |Member 4 |  ? | ? | ? |
 
@@ -42,16 +42,16 @@ _**Appendix Table 2**: Weekly Schedule_
 | :------: | :----: | :----: | :----: | :----: | :----: | :----: | :-----: |
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
-| 10:00 AM | - | J | - | J | - | J | - |
-| 11:00 AM | - | J | - | J | - | J | - |
-| 12:00 PM | - | J | - | J | - | J | - |
-| 1:00 PM | - | - | - | - | - | J | - |
-| 2:00 PM | - | - | - | - | - | J | - |
-| 3:00 PM | - | - | - | - | - | J | - |
-| 4:00 PM | - | J | J | J | J | J | - |
-| 5:00 PM | - | J | J | J | J | J | - |
-| 6:00 PM | - | - | - | - | - | - | - |
-| 7:00 PM | - | - | - | - | - | - | - |
+| 10:00 AM | - | J RY | - | J RY | - | J | - |
+| 11:00 AM | - | J RY | - | J RY | - | J | - |
+| 12:00 PM | - | J RY | - | J RY | - | J RY | RY |
+| 1:00 PM | - | - | - | - | - | J RY | RY |
+| 2:00 PM | - | - | - | - | - | J RY | RY |
+| 3:00 PM | - | - | - | - | - | J RY | RY |
+| 4:00 PM | - | J RY | J | J | J | J RY | RY |
+| 5:00 PM | - | J RY| J RY | J | J RY | J RY | RY |
+| 6:00 PM | - | RY | RY | - | RY | RY | RY |
+| 7:00 PM | - | RY | RY | - | RY | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
 | 9:00 PM | - | - | - | - | - | - | - |
 
@@ -60,7 +60,7 @@ _**Table Legend for Appendix Table 2**_
 | Name | Abbreviation |
 | ----- | :------: |
 | Jacob | J |
-| Member 2 | - |
+| Rylee | RY |
 | Member 3 | - |
 | Member 4 | - |
 
