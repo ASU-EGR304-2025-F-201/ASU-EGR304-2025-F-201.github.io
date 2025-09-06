@@ -7,7 +7,9 @@ tags:
 
 ## Team Charter
 
-Team 201 is dedicated to designing and producing the highest quality products for our customers. We value growing our individual skills and incorporating those skills to create a stronger, cohesive team. Team 201 prioritizes providing solutions to and solving the problems of our customers.
+As a team, we discussed what our priorities were from this class and team project, and distilled our ideas into a Team Charter. This comprises our goals and aspirations for the scope of our project.
+
+"Team 201 is dedicated to designing and producing the highest quality products for our customers. We value growing our individual skills and incorporating those skills to create a stronger, cohesive team. Team 201 prioritizes providing solutions to and solving the problems of our customers."
 
 
 ## Product Mission Statement
