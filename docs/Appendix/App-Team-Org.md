@@ -1,4 +1,3 @@
-<img width="500" height="150" alt="RS_Signature" src="https://github.com/user-attachments/assets/48e2ae81-3274-4218-9606-891a4b77a1e0" />
 ---
 title: "Appendix: Team Organization"
 tags:
