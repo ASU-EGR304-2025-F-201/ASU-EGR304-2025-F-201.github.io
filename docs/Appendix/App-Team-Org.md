@@ -1,3 +1,4 @@
+<img width="500" height="150" alt="RS_Signature" src="https://github.com/user-attachments/assets/48e2ae81-3274-4218-9606-891a4b77a1e0" />
 ---
 title: "Appendix: Team Organization"
 tags:
@@ -42,15 +43,15 @@ _**Appendix Table 2**: Weekly Schedule_
 | 8:00 AM | - | - | - | - | - | - | - |
 | 9:00 AM | - | - | - | - | - | - | - |
 | 10:00 AM | - | J RY I | - | J RY I | - | J | - |
-| 11:00 AM | - | J RY I | - | J RY I | - | J | - |
-| 12:00 PM | - | J RY I | - | J RY I | - | J RY I | RY |
-| 1:00 PM | - | - | - | - | - | J RY I | RY |
-| 2:00 PM | - | - | I | - | I | J RY I | RY |
-| 3:00 PM | - | - | I | - | I | J RY I | RY |
-| 4:00 PM | - | J RY I | J | J I | J | J RY | RY |
-| 5:00 PM | - | J RY I | J RY | J I | J RY | J RY | RY |
-| 6:00 PM | - | RY I | RY I | I | RY I | RY | RY |
-| 7:00 PM | - | RY I | RY I | I | RY I | - | - |
+| 11:00 AM | - | RS J RY I | - | RS J RY I | - | J | - |
+| 12:00 PM | - | RS J RY I | - | RS J RY I | - | J RY I | RS RY |
+| 1:00 PM | - | - | - | - | - | J RY I | RS RY |
+| 2:00 PM | - | - | RS I | - | RS I | J RY I | RY |
+| 3:00 PM | - | - | RS I | - | RS I | J RY I | RY |
+| 4:00 PM | - | RS J RY I | RS J | RS J I | RS J | J RY | RY |
+| 5:00 PM | - | RS J RY I | J RY | RS J I | J RY | J RY | RY |
+| 6:00 PM | - | RS RY I | RY I | RS I | RY I | RY | RY |
+| 7:00 PM | - | RS RY I | RY I | RS I | RY I | - | - |
 | 8:00 PM | - | - | - | - | - | - | - |
 | 9:00 PM | - | - | - | - | - | - | - |
 
@@ -61,7 +62,7 @@ _**Table Legend for Appendix Table 2**_
 | Jacob | J |
 | Rylee | RY |
 | Isaiah | I |
-| Member 4 | - |
+| Raunak | RS |
 
 
 ## Meeting Coordination
@@ -99,5 +100,5 @@ Example: A team member has an idea of how to move forward with the project, one 
 ![Jacob Alger's Signature](Jacob_Alger_Signature.png)
 <img width="400" height="100" alt="Isaiah Johnston Signature" src="https://github.com/user-attachments/assets/19d37ea2-dcfd-4f2f-b622-4bad84ef850b" />
 <img width="500" height="150" alt="Rylee Wirt Signature" src="https://github.com/user-attachments/assets/40761c5b-e21f-4780-b519-5a1fbb9af0dc" />
-
+<img width="500" height="150" alt="RS_Signature" src="https://github.com/user-attachments/assets/dcfef1fb-f97a-45db-a6f9-bc4b45aa8b0a" />
 
