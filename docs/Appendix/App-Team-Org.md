@@ -82,6 +82,10 @@ _**Appendix Table 2**: Project Roles and Duties_
 | Assignment leader - Jacob Alger | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
 | Project monitor - Rylee Wirt   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
+## Team Coordination & Accountability
+
+We will use our meetings to discuss what the expected deliverables of each member are for each team assignment. This will be recorded and saved so we can refer back to it as we work on the assignments. We will use text to share when we are done with our work, and we are satisfied with our sections. We will also use of meetings to share openly what work we feel comfortable doing, and what work we feel like we cannot do, in which case the team will redecide how to best split the workload accordingly.
+
 ## Conflict Recognition & Resolution
 
 In the event of an internal team conflict, the team will call a meeting, and the issue will be discussed. The team will work together to develop a plan to address and move past the conflict. The exact nature of how this will be done will depend on each individual situation.
