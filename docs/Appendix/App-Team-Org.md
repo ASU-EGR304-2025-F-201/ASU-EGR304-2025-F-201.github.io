@@ -9,9 +9,9 @@ tags:
 
 1. Enhance skills to expand our skillset
 2. Learn how to collaborate with a team to make an effective product
-3. Minimized product cost and maximize utility
+3. Minimize product cost and maximize utility
 4. Produce reliable, accurate, and professional products
-5. Create products that address real issues encountered by costomers
+5. Create products that address real issues encountered by customers
 
 ## Communication Channels
 
@@ -66,9 +66,9 @@ _**Table Legend for Appendix Table 2**_
 
 ## Meeting Coordination
 
-1.Team 201 will use a shared calendar to schedual meetings.
-1. A schedule will be set in an online calendar if changes need to be made a group text will be sent notifying the rest of the team of the changes.
-1. In person meetings will be held when possible and convenient. If in person is not feasable we will meet virtually.
+1. Team 201 will use a shared calendar to schedule meetings.
+1. A schedule will be set in an online calendar. If changes need to be made, a group text will be sent notifying the rest of the team of the changes.
+1. In-person meetings will be held when possible and convenient. If in person is not feasible, we will meet virtually.
 1. Team members will inform others via group text if they will be late
 
 ## Roles & Responsibilities
@@ -77,16 +77,16 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 | **Role**          | **Duties**                                                                                                                                |
 | :---------------- | :---------------------------------------------------------------------------------------------------------------------------------------- |
-| Meeting leader-Isaiah   | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
-| Meeting recorder  - Raunak Singh | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
-| Assignment leader - Jacob Alger | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
-| Project monitor - Rylee Wirt   | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
+| Meeting leader - Isaiah   | Schedules team meetings, creates and distributes an agenda for each meeting, and runs each meeting                                        |
+| Meeting recorder  - Raunak  | Takes minutes of each team meeting, including attendance, and records action items and to whom they are assigned                          |
+| Assignment leader - Jacob  | Coordinates the team's work on a given assignment to Canvas before the due date                                                           |
+| Project monitor - Rylee    | Tracks the team's progress relative to the project schedule (Gantt chart) and keeps team members apprised of deadlines and project status |
 
 ## Team Coordination & Accountability
 
 We will use our meetings to discuss what the expected deliverables of each member are for each team assignment. This will be recorded and saved so we can refer back to it as we work on the assignments. We will use text to share when we are done with our work and are satisfied with our sections. We will also use meetings to share openly what work we feel comfortable doing, and what work we feel like we cannot do, in which case the team will redecide how to best split the workload accordingly.
 
-If a team member is not contributing to an assignment, we will ensure that we bring this up openly and without anger or resentment in our meetings. We will all be open to feedback and recognize when we failed to complete our tasks, and work on improving. If a team member does not complete their work by the time it is due, their lack of assistance will be shared with the Teaching Team to explain the situation. If needed, a meeting with the Teaching Team will be scheduled to discuss the team dynamics in the event of a team member "ghosting" or repeatedly failing to meet deadlines. We will approach all conflicts with understanding, and follow our conflict guidelines.
+If a team member is not contributing to an assignment, we will ensure that we bring this up openly and without anger or resentment in our meetings. We will all be open to feedback and recognize when we failed to complete our tasks, and work on improving. If a team member does not complete their work by the time it is due, their lack of assistance will be shared with the Teaching Team to explain the situation. If needed, a meeting with the Teaching Team will be scheduled to discuss the team dynamics in the event of a team member "ghosting" or repeatedly failing to meet deadlines. We will approach all conflicts with understanding and follow our conflict guidelines.
 
 ## Conflict Recognition & Resolution
 
