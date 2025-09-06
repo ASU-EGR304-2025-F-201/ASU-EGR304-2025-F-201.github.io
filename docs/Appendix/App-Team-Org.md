@@ -84,7 +84,9 @@ _**Appendix Table 2**: Project Roles and Duties_
 
 ## Team Coordination & Accountability
 
-We will use our meetings to discuss what the expected deliverables of each member are for each team assignment. This will be recorded and saved so we can refer back to it as we work on the assignments. We will use text to share when we are done with our work, and we are satisfied with our sections. We will also use of meetings to share openly what work we feel comfortable doing, and what work we feel like we cannot do, in which case the team will redecide how to best split the workload accordingly.
+We will use our meetings to discuss what the expected deliverables of each member are for each team assignment. This will be recorded and saved so we can refer back to it as we work on the assignments. We will use text to share when we are done with our work and are satisfied with our sections. We will also use meetings to share openly what work we feel comfortable doing, and what work we feel like we cannot do, in which case the team will redecide how to best split the workload accordingly.
+
+If a team member is not contributing to an assignment, we will ensure that we bring this up openly and without anger or resentment in our meetings. We will all be open to feedback and recognize when we failed to complete our tasks, and work on improving. If a team member does not complete their work by the time it is due, their lack of assistance will be shared with the Teaching Team to explain the situation. If needed, a meeting with the Teaching Team will be scheduled to discuss the team dynamics in the event of a team member "ghosting" or repeatedly failing to meet deadlines. We will approach all conflicts with understanding, and follow our conflict guidelines.
 
 ## Conflict Recognition & Resolution
 
