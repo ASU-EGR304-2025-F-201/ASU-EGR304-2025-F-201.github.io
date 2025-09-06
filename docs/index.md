@@ -22,9 +22,7 @@ Professor: Kevin Nichols<br>
 </center>
 
 ## Team Introduction
-> This will be updated as part of the preparation for the External Review.<br>
->    * This needs to be updated to reflect a team introduction.<br>
->    * Content should also help an unfamiliar reader navigate to areas of interest.
+We are Team 201, and we are tasked with designing a product to help streamline our customers' home lives. You can find out more about our team in the Team Organization section of this website.
 
 
 ## Team Members Datasheet links
