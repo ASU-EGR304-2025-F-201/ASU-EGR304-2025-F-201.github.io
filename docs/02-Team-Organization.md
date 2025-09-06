@@ -7,9 +7,8 @@ tags:
 
 ## Team Charter
 
-From the ... which can be reviewed in ["Appendix: Team Organization"](https://embedded-systems-design.github.io/EGR304TeamTemplate/Appendix/App-Team-Org/), the team's charter formed to be (showing ASU's Charter as an Example):
+Team 201 is dedicated to desinging and producing the highest quality products for our customers. We value growing our individual skills and incorporating those skills to create a stronger cohesive team. Team 201 prioritizes providing solutions to and solving the problems of our customers.
 
-> "ASU is a comprehensive public research university, measured not by whom it excludes, but by whom it includes and how they succeed; advancing research and discovery of public value; and assuming fundamental responsibility for the economic, social, cultural and overall health of the communities it serves." (ASU's Charter)
 
 ## Product Mission Statement
 
