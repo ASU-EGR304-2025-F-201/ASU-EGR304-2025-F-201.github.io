@@ -92,5 +92,6 @@ Example: A team member has an idea of how to move forward with the project, one 
 
 ## Signatures
 
+![Jacob Alger's Signature](Jacob_Alger_Signature.png)
 Isaiah Johnston
 
