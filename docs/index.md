@@ -34,4 +34,4 @@ Professor: Kevin Nichols<br>
 | Jacob Alger            | [JacobAlger.GitHub](https://jacob-alger.github.io/)|
 | Isaiah Johnston        | [Isaiahcmd.GitHub](https://isaiahcmd.github.io/)|
 | Raunak Singh           | [Ronnie772.GitHub](https://ronnie772.github.io)|
-| Name #4                | [x.GitHub](link)|
+| Rylee Wirt             | [rmwirt-source.GitHub](https://rmwirt-source.github.io)|
