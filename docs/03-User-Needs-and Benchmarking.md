@@ -103,7 +103,11 @@ To learn what kind of home improvement device we should make, we brainstormed se
 ##### Negative Comments
 | Voice of the Customer | Restated Customer Need |
 | --------------------- | ---------------------- |
-| "Test" | 1. Test |
+| "At first, I thought this was a great system. I had it running side by side with an Aerogarden and it was working comparatively well. The lights were great, things were growing like crazy, etc. Then it went and showed me why it is better to spend a little more on a better product. The pump stopped working after about 5.5 - 6 months. I planned on keeping it just for the lights but had to throw the whole thing away because it was just disgusting. It is really sad that it only lasted maybe 6 months at most. I received it in January and the pump stopped at the end of June. It really is a shame because I liked the look and features. I will probably only buy Aerogardens from now on." | 1. Product should be reliable (Latent) |
+| "Followed all the instructions, set it up, and won’t stop beeping. The pump isn’t working either. Customer service not available to help set up, registration portal not accepting Amazon order id to register product. For all those reasons, Im out. Returned this the same day I received it. You get what you pay for." | 1. Product should come with a clear and explicit  instruction manual (Explicit)<br>2. Product should include user repair instructions in case of emergencies (Explicit) |
+| "Bought this for my mom for Christmas. She LOVES it. However, after only 4 months of use, the light has stopped working. Very disappointing." | 1. Product should have good quality components (Latent) |
+| "Worked decent until it broke when it was too late to return it. All of my herbs are dying without the light and water pump functioning." | 1. Product should have a good quality built so it doesn't break easily (Latent) |
+
 
 #### 5. [Title](https://www.amazon.com/Automatically-Temperature-Fertility-Bluetooth-Hygrometer/dp/B0B6QVF3M4/ref=sr_1_9?crid=2VE0OK43XV2H5&dib=eyJ2IjoiMSJ9.fMroIyQzQiCykwfuFYgWXue0WNwL_cxZ_l5reGArKTQpcQW_WX8IDYRZpEEXZiQ8pDniZTd5DTasy9MkSUA0KgAbLCilJRHw3IyDD9r6cvJ3GAilf3Fuou6R0-jxUxDjU7HkB3Ji1yOPPYDYYLtCDMOsb3hcl4n0lemLS4F6EfIm8dIAQOdylc7j1HqAukcuUP8adbw6imX_NF6h7xodWc3ftVgZ8vf-ATdek4Ljrefg8pDg869VGWP8kvq3tgLIqhNm1efyljfhLGAF-39piFIUShumwVKlXM7fDOY8CuA.4QDVd5TpyG7IhfERH2moGHcvI-MLoTJNEc9tqLg7zbg&dib_tag=se&keywords=smart%2Bplant%2Bmonitoring%2Bsystem&qid=1757787409&sprefix=smart%2Bplant%2Bmonito%2Caps%2C232&sr=8-9&th=1)
 
