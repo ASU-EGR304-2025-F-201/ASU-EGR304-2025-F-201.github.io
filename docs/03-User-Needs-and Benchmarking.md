@@ -25,3 +25,75 @@ tags:
 | --------------------- | ---------------------- |
 | "Test" | 1. Test |
 
+#### 2. [Title](https://www.amazon.com/Automatically-Temperature-Fertility-Bluetooth-Hygrometer/dp/B0B6QVF3M4/ref=sr_1_9?crid=2VE0OK43XV2H5&dib=eyJ2IjoiMSJ9.fMroIyQzQiCykwfuFYgWXue0WNwL_cxZ_l5reGArKTQpcQW_WX8IDYRZpEEXZiQ8pDniZTd5DTasy9MkSUA0KgAbLCilJRHw3IyDD9r6cvJ3GAilf3Fuou6R0-jxUxDjU7HkB3Ji1yOPPYDYYLtCDMOsb3hcl4n0lemLS4F6EfIm8dIAQOdylc7j1HqAukcuUP8adbw6imX_NF6h7xodWc3ftVgZ8vf-ATdek4Ljrefg8pDg869VGWP8kvq3tgLIqhNm1efyljfhLGAF-39piFIUShumwVKlXM7fDOY8CuA.4QDVd5TpyG7IhfERH2moGHcvI-MLoTJNEc9tqLg7zbg&dib_tag=se&keywords=smart%2Bplant%2Bmonitoring%2Bsystem&qid=1757787409&sprefix=smart%2Bplant%2Bmonito%2Caps%2C232&sr=8-9&th=1)
+
+![](../image/Sinbeda_monitor.jpg)
+
+- **Price:** 
+- **Vendor:** 
+- **Description:** 
+
+##### Positive Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
+##### Negative Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
+#### 3. [Title](https://www.amazon.com/Automatically-Temperature-Fertility-Bluetooth-Hygrometer/dp/B0B6QVF3M4/ref=sr_1_9?crid=2VE0OK43XV2H5&dib=eyJ2IjoiMSJ9.fMroIyQzQiCykwfuFYgWXue0WNwL_cxZ_l5reGArKTQpcQW_WX8IDYRZpEEXZiQ8pDniZTd5DTasy9MkSUA0KgAbLCilJRHw3IyDD9r6cvJ3GAilf3Fuou6R0-jxUxDjU7HkB3Ji1yOPPYDYYLtCDMOsb3hcl4n0lemLS4F6EfIm8dIAQOdylc7j1HqAukcuUP8adbw6imX_NF6h7xodWc3ftVgZ8vf-ATdek4Ljrefg8pDg869VGWP8kvq3tgLIqhNm1efyljfhLGAF-39piFIUShumwVKlXM7fDOY8CuA.4QDVd5TpyG7IhfERH2moGHcvI-MLoTJNEc9tqLg7zbg&dib_tag=se&keywords=smart%2Bplant%2Bmonitoring%2Bsystem&qid=1757787409&sprefix=smart%2Bplant%2Bmonito%2Caps%2C232&sr=8-9&th=1)
+
+![](../image/Sinbeda_monitor.jpg)
+
+- **Price:** 
+- **Vendor:** 
+- **Description:** 
+
+##### Positive Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
+##### Negative Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
+#### 4. [Title](https://www.amazon.com/Automatically-Temperature-Fertility-Bluetooth-Hygrometer/dp/B0B6QVF3M4/ref=sr_1_9?crid=2VE0OK43XV2H5&dib=eyJ2IjoiMSJ9.fMroIyQzQiCykwfuFYgWXue0WNwL_cxZ_l5reGArKTQpcQW_WX8IDYRZpEEXZiQ8pDniZTd5DTasy9MkSUA0KgAbLCilJRHw3IyDD9r6cvJ3GAilf3Fuou6R0-jxUxDjU7HkB3Ji1yOPPYDYYLtCDMOsb3hcl4n0lemLS4F6EfIm8dIAQOdylc7j1HqAukcuUP8adbw6imX_NF6h7xodWc3ftVgZ8vf-ATdek4Ljrefg8pDg869VGWP8kvq3tgLIqhNm1efyljfhLGAF-39piFIUShumwVKlXM7fDOY8CuA.4QDVd5TpyG7IhfERH2moGHcvI-MLoTJNEc9tqLg7zbg&dib_tag=se&keywords=smart%2Bplant%2Bmonitoring%2Bsystem&qid=1757787409&sprefix=smart%2Bplant%2Bmonito%2Caps%2C232&sr=8-9&th=1)
+
+![](../image/Sinbeda_monitor.jpg)
+
+- **Price:** 
+- **Vendor:** 
+- **Description:** 
+
+##### Positive Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
+##### Negative Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
+#### 5. [Title](https://www.amazon.com/Automatically-Temperature-Fertility-Bluetooth-Hygrometer/dp/B0B6QVF3M4/ref=sr_1_9?crid=2VE0OK43XV2H5&dib=eyJ2IjoiMSJ9.fMroIyQzQiCykwfuFYgWXue0WNwL_cxZ_l5reGArKTQpcQW_WX8IDYRZpEEXZiQ8pDniZTd5DTasy9MkSUA0KgAbLCilJRHw3IyDD9r6cvJ3GAilf3Fuou6R0-jxUxDjU7HkB3Ji1yOPPYDYYLtCDMOsb3hcl4n0lemLS4F6EfIm8dIAQOdylc7j1HqAukcuUP8adbw6imX_NF6h7xodWc3ftVgZ8vf-ATdek4Ljrefg8pDg869VGWP8kvq3tgLIqhNm1efyljfhLGAF-39piFIUShumwVKlXM7fDOY8CuA.4QDVd5TpyG7IhfERH2moGHcvI-MLoTJNEc9tqLg7zbg&dib_tag=se&keywords=smart%2Bplant%2Bmonitoring%2Bsystem&qid=1757787409&sprefix=smart%2Bplant%2Bmonito%2Caps%2C232&sr=8-9&th=1)
+
+![](../image/Sinbeda_monitor.jpg)
+
+- **Price:** 
+- **Vendor:** 
+- **Description:** 
+
+##### Positive Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
+##### Negative Comments
+| Voice of the Customer | Restated Customer Need |
+| --------------------- | ---------------------- |
+| "Test" | 1. Test |
+
