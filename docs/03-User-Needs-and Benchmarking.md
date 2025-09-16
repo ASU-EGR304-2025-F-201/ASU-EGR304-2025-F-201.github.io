@@ -59,7 +59,7 @@ To learn what kind of home improvement device we should make, we brainstormed se
 
 #### 3. [RUNWUSHENG Automatic Plant Waterer Indoor](https://www.amazon.com/RUNWUSHENG-Watering-Houseplants-Irrigation-Programmable/dp/B0DT6F4W95/ref=cm_cr_arp_d_product_top?ie=UTF8)
 
-![RUNWUSHENG Automatic Plant Waterer Indoor](../image/Sinbeda_monitor.jpg)
+![RUNWUSHENG Monitor](../image/RUNWUSHENG_monitor.jpg)
 
 - **Price:** $54.99
 - **Vendor:** Amazon
@@ -77,7 +77,10 @@ To learn what kind of home improvement device we should make, we brainstormed se
 ##### Negative Comments
 | Voice of the Customer | Restated Customer Need |
 | --------------------- | ---------------------- |
-| "Test" | 1. Test |
+| "I find this a bit fussy and takes a while to get all set up and the rate of flow as needed. This waters my plants with ease. It isn’t the nicest look in the house with all the hoses, so I am using it in my greenhouse setup. The quality is good and so far has been reliable. This is a decent value." | 1. Product should look aesthetic (Explicit)<br>2. Product should be outdoor accessible (Explicit) |
+| "Worked for a week or so. Now I can't change settings and it doesn't pump on the current setting. Don't waste your money" | 1. Product should be reliable and not break down so soon. (Latent) |
+| "Not the easiest to put together and distribute water and is a lot smaller than i thought" | 1. Product should be as compact
+ in size as possible. (Explicit) |
 
 #### 4. [Title](https://www.amazon.com/Automatically-Temperature-Fertility-Bluetooth-Hygrometer/dp/B0B6QVF3M4/ref=sr_1_9?crid=2VE0OK43XV2H5&dib=eyJ2IjoiMSJ9.fMroIyQzQiCykwfuFYgWXue0WNwL_cxZ_l5reGArKTQpcQW_WX8IDYRZpEEXZiQ8pDniZTd5DTasy9MkSUA0KgAbLCilJRHw3IyDD9r6cvJ3GAilf3Fuou6R0-jxUxDjU7HkB3Ji1yOPPYDYYLtCDMOsb3hcl4n0lemLS4F6EfIm8dIAQOdylc7j1HqAukcuUP8adbw6imX_NF6h7xodWc3ftVgZ8vf-ATdek4Ljrefg8pDg869VGWP8kvq3tgLIqhNm1efyljfhLGAF-39piFIUShumwVKlXM7fDOY8CuA.4QDVd5TpyG7IhfERH2moGHcvI-MLoTJNEc9tqLg7zbg&dib_tag=se&keywords=smart%2Bplant%2Bmonitoring%2Bsystem&qid=1757787409&sprefix=smart%2Bplant%2Bmonito%2Caps%2C232&sr=8-9&th=1)
 
