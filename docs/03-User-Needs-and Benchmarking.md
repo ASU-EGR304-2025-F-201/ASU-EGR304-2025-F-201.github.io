@@ -6,6 +6,7 @@ tags:
 ---
 
 ## Voice of the Customer Benchmarking
+To learn what kind of home improvement device we should make, we brainstormed several ideas and decided on making a smart plant sensor that can help the user take care of plants using sensors and alerts. In order to get a better understanding of this product, and more specifically, the needs of our users when using a product like this, we benchmarked five similar products with the goal of generating 100 user needs, which we proceeded to categorize and rank on importance.
 ### Selected Products for Benchmarking
 #### 1. [Sinbeda 4 in 1 Plant Water Monitor](https://www.amazon.com/Automatically-Temperature-Fertility-Bluetooth-Hygrometer/dp/B0B6QVF3M4/ref=sr_1_9?crid=2VE0OK43XV2H5&dib=eyJ2IjoiMSJ9.fMroIyQzQiCykwfuFYgWXue0WNwL_cxZ_l5reGArKTQpcQW_WX8IDYRZpEEXZiQ8pDniZTd5DTasy9MkSUA0KgAbLCilJRHw3IyDD9r6cvJ3GAilf3Fuou6R0-jxUxDjU7HkB3Ji1yOPPYDYYLtCDMOsb3hcl4n0lemLS4F6EfIm8dIAQOdylc7j1HqAukcuUP8adbw6imX_NF6h7xodWc3ftVgZ8vf-ATdek4Ljrefg8pDg869VGWP8kvq3tgLIqhNm1efyljfhLGAF-39piFIUShumwVKlXM7fDOY8CuA.4QDVd5TpyG7IhfERH2moGHcvI-MLoTJNEc9tqLg7zbg&dib_tag=se&keywords=smart%2Bplant%2Bmonitoring%2Bsystem&qid=1757787409&sprefix=smart%2Bplant%2Bmonito%2Caps%2C232&sr=8-9&th=1)
 
@@ -110,3 +111,112 @@ tags:
 | --------------------- | ---------------------- |
 | "Test" | 1. Test |
 
+## Organized Need Statements
+
+### Initial Generation
+
+### Categorization
+
+### Ranking
+
+## Compiled List of User Needs
+1. .
+2. .
+3. .
+4. .
+5. .
+6. ..
+7. .
+8. .
+9. .
+10. .
+11. .
+12. .
+13. .
+14. .
+15. .
+16. .
+17. .
+18. .
+19. .
+20. .
+21. .
+22. .
+23. .
+24. .
+25. .
+26. .
+27. .
+28. .
+29. .
+30. .
+31. .
+32. .
+33. .
+34. .
+35. .
+36. .
+37. .
+38. .
+39. .
+40. .
+41. .
+42. .
+43. .
+44. .
+45. .
+46. .
+47. .
+48. .
+49. .
+50. .
+51. .
+52. .
+53. .
+54. .
+55. .
+56. .
+57. .
+58. .
+59. .
+60. .
+61. .
+62. .
+63. .
+64. .
+65. .
+66. .
+67. .
+68. .
+69. .
+70. .
+71. .
+72. .
+73. .
+74. .
+75. .
+76. .
+77. .
+78. .
+79. .
+80. .
+81. .
+82. .
+83. .
+84. .
+85. .
+86. .
+87. .
+88. .
+89. .
+90. .
+91. .
+92. .
+93. .
+94. .
+95. .
+96. .
+97. .
+98. .
+99. .
+100. .
