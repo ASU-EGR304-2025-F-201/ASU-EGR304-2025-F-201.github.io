@@ -96,7 +96,7 @@ Example: A team member has an idea of how to move forward with the project, one 
 
 ## Signatures
 
-![Jacob Alger's Signature](Jacob_Alger_Signature.png)
+![Jacob Alger's Signature](docs/image/Jacob_Alger_Signature.png)
 <img width="400" height="100" alt="Isaiah Johnston Signature" src="https://github.com/user-attachments/assets/19d37ea2-dcfd-4f2f-b622-4bad84ef850b" />
 <img width="500" height="150" alt="Rylee Wirt Signature" src="https://github.com/user-attachments/assets/40761c5b-e21f-4780-b519-5a1fbb9af0dc" />
 <img width="500" height="150" alt="RS_Signature" src="https://github.com/user-attachments/assets/dcfef1fb-f97a-45db-a6f9-bc4b45aa8b0a" />
