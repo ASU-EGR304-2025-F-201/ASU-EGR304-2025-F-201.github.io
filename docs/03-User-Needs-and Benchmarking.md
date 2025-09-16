@@ -137,8 +137,13 @@ To learn what kind of home improvement device we should make, we brainstormed se
 
 
 ## Organized Need Statements
-
 ### Initial Generation
+
+To create all of the above user needs, we searched for similar products, and found reviews, and generated the needs that the users were referencing. Then we categorized these into whether they were explicit, meaning the user knew it was a need, or latent, where the user implied a need that they might not have been aware was critical to them.
+
+Below is a few images of our note taking process to create the user needs for the benchmarked products:
+![Notes 1](../image/user_needs_notes1.png)
+![Notes 2](../image/user_needs_notes2.png)
 
 ### Categorization
 To sort through all of our user needs, we then categorized all of them into four categories, ranging from critical features that are required to meet our customers' satisfaction, to features that would be nice to include but don't make an overall difference in our design.
@@ -236,6 +241,8 @@ To sort through all of our user needs, we then categorized all of them into four
 1. Product should be user repairable
 1. Product needs to be robust, and durable (beyond basic durability)
 
+Below is an image of our process in creating the categories, which were based on the KANO model:
+![Category Notes](../image/user_needs_category1.png)
 
 ### Ranking
 Now, with our categorized user needs weighted and scored, we have a clean list of 100 user needs, ranked from highest importance value to lowest.
@@ -344,3 +351,6 @@ Now, with our categorized user needs weighted and scored, we have a clean list o
 | 98   | Device firmware is open-source / hackable             | Delighter | 1      | 3     |
 | 99   | Device prevents any potential root damage             | Delighter | 1      | 2     |
 | 100  | Product has future-proof expansion features           | Delighter | 1      | 1     |
+
+Below is an image of our process in creating this ranking table:
+![Ranking Notes](../image/user_needs_ranking1.png)
