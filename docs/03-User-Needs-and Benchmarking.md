@@ -18,7 +18,8 @@ tags:
 ##### Positive Comments
 | Voice of the Customer | Restated Customer Need |
 | --------------------- | ---------------------- |
-| "Test" | 1. Test |
+| “If you have Home Assistant and BLE working, this product is awesome. The iPhone app is not bad but it would be nice to allow for historical graphs. The graphing capability for home assistant includes luminance, microsiemens per centimeter, moisture, and temperature.” | 1. App can store data and generate historical graphs (Explicit)
+2. Device will track important data related to the plant (Latent) |
 
 ##### Negative Comments
 | Voice of the Customer | Restated Customer Need |
