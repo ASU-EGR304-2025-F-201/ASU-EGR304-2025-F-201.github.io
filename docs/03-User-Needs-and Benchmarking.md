@@ -354,3 +354,4 @@ Now, with our categorized user needs weighted and scored, we have a clean list o
 
 Below is an image of our process in creating this ranking table:<br>
 ![Ranking Notes](../image/user_needs_ranking1.png)
+<br>
