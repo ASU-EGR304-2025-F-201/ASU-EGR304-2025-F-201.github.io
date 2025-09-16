@@ -79,8 +79,7 @@ To learn what kind of home improvement device we should make, we brainstormed se
 | --------------------- | ---------------------- |
 | "I find this a bit fussy and takes a while to get all set up and the rate of flow as needed. This waters my plants with ease. It isn’t the nicest look in the house with all the hoses, so I am using it in my greenhouse setup. The quality is good and so far has been reliable. This is a decent value." | 1. Product should look aesthetic (Explicit)<br>2. Product should be outdoor accessible (Explicit) |
 | "Worked for a week or so. Now I can't change settings and it doesn't pump on the current setting. Don't waste your money" | 1. Product should be reliable and not break down so soon. (Latent) |
-| "Not the easiest to put together and distribute water and is a lot smaller than i thought" | 1. Product should be as compact
- in size as possible. (Explicit) |
+| "Not the easiest to put together and distribute water and is a lot smaller than i thought" | 1. Product should be as compact in size as possible. (Explicit) |
 
 #### 4. [inBloom 12 pods Hydroponics Growing System](https://www.amazon.com/inbloom-Hydroponics-Germination-Accelerate-Adjustable/dp/B0CFQNTGX6/ref=cm_cr_arp_d_product_top?ie=UTF8&th=1)
 
@@ -141,7 +140,8 @@ To learn what kind of home improvement device we should make, we brainstormed se
 
 To create all of the above user needs, we searched for similar products, and found reviews, and generated the needs that the users were referencing. Then we categorized these into whether they were explicit, meaning the user knew it was a need, or latent, where the user implied a need that they might not have been aware was critical to them.
 
-Below is a few images of our note taking process to create the user needs for the benchmarked products:
+Below are a few images of our note-taking process to create the user needs for the benchmarked products:<br>
+
 ![Notes 1](../image/user_needs_notes1.png)
 ![Notes 2](../image/user_needs_notes2.png)
 
@@ -241,7 +241,7 @@ To sort through all of our user needs, we then categorized all of them into four
 1. Product should be user repairable
 1. Product needs to be robust, and durable (beyond basic durability)
 
-Below is an image of our process in creating the categories, which were based on the KANO model:
+Below is an image of our process in creating the categories, which were based on the KANO model:<br>
 ![Category Notes](../image/user_needs_category1.png)
 
 ### Ranking
@@ -352,5 +352,5 @@ Now, with our categorized user needs weighted and scored, we have a clean list o
 | 99   | Device prevents any potential root damage             | Delighter | 1      | 2     |
 | 100  | Product has future-proof expansion features           | Delighter | 1      | 1     |
 
-Below is an image of our process in creating this ranking table:
+Below is an image of our process in creating this ranking table:<br>
 ![Ranking Notes](../image/user_needs_ranking1.png)
