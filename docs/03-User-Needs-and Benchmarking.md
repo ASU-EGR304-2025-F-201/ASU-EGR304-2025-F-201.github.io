@@ -141,107 +141,206 @@ To learn what kind of home improvement device we should make, we brainstormed se
 ### Initial Generation
 
 ### Categorization
+To sort through all of our user needs, we then categorized all of them into four categories, ranging from critical features that are required to meet our customers' satisfaction, to features that would be nice to include but don't make an overall difference in our design.
+
+#### Critical (Must-Have)
+1. App can store data and generate historical graphs
+1. App will alert any detectable issues with plant
+1. Price should be worth value of device
+1. Device can have long range connections
+1. User can add custom plants with custom requirements to sensor
+1. User can rename plants in app
+1. Only 1 app for the device that is high quality and user-friendly
+1. Instructions for device and app should be well made
+1. App stay up to date so it keeps working
+1. Sensors keep working for a long time
+1. App allows the user to opt-out of permissions and is designed with user privacy in mind
+1. Sensor can reach into deep soil for better readings
+1. Sensors give accurate and consistent information
+1. Product needs to be accurate and reliable
+1. Product needs long battery life
+1. Product needs to be easy to set up and use. No technical skills should be required
+1. Product should be easy to setup
+1. Product should be automated
+1. Product should have no leakage
+1. Product should be waterproof
+1. Product should have the ability to switch between AC current and a backup battery
+1. Product should be easily programmable according to user needs
+1. Product should be a quick setup
+1. Product should be as small in size as possible
+1. Product should have strong LED lights
+1. Product’s LEDs should be spaced properly so the leaves close by don't burn
+1. Product should have drain holes at the bottom for easy removal and refilling of water
+1. Product should have a low water level alarm or sensor
+1. Product should have a memory function for emergencies like power cuts
+1. Product should be indoor farming accessible
+1. Product should programmed to turn on after every 8hr turn off time period
+1. Product should leak proof
+1. Product should come with a clear and explicit instruction manual
+1. Product should have user repair instructions in case of emergencies
+1. Product should be reliable
+1. Product should have good quality components
+1. Product should have good quality built so it doesn't break easily
+1. Reliable plant watering system, easy setup, works for indoor plants during extended absences
+1. Consistent watering for all plants, easy setup, intuitive app
+1. Reliable pump, functional out of the box, responsive customer support
+1. Stable app, easy WiFi connection, adjustable watering for multiple plants
+1. Weatherproof system, reliable operation outdoors
+
+#### High (Very Important)
+1. Device will track important data related to plant
+1. Device can be moved and reprogrammed easily
+1. Device will give several types of alerts that could be relevant
+1. Device electronics are protected from weather and outdoor elements
+1. Device connections are stable and stay connected
+1. App can connect to several devices at the same time
+1. Product needs to be durable
+1. Product needs to save consumer time, and reduce effort
+1. Product needs to log data not just present current measurements
+1. Product should include a calibration procedure
+1. Product needs to handle a large range of temperatures
+1. Product should be able to auto water the soil
+1. Product should have a good user manual
+1. Product should have a good battery life and a long run time
+1. Product should be as lightweight as possible
+1. Product should have backup connectors
+1. Product should have replaceable connectors
+1. Product should be aesthetic
+1. Product should be outdoor accessible
+1. Precise watering control, works for multiple plants at once, adjustable flow per plant
+1. High-quality system, strong pump, supports multiple plants
+1. Reliable automatic watering for vacations, simple setup, remote control via WiFi
+1. Flexible for vacation or daily use, seamless connectivity, user-friendly app
+1. Customizable watering for different plants, ability to split hoses, waterproof system, avoids overwatering
+
+#### Moderate (Nice-to-Have)
+1. Product needs data about target readings
+1. Product needs to be able to keep an extensive log of data to effectively see data patterns
+1. Product should be easy to set up and use (general convenience)
+1. Product should be able to auto water the soil
+1. Product should be a quick setup (general convenience)
+1. Product should have a good water storage
+1. Product should either be completely silent or have a low sound
+1. Efficient in watering diverse plants, low maintenance, minimal worry about leaks
+1. Optimization for plant growth, minimal manual oversight once set
+1. Convenience, reduced stress, efficient watering for many plants
+1. Peace of mind, stress-free plant care while away, consistent hydration
+1. Peace of mind while away, predictable plant care, non-intrusive
+1. Confidence in reliability, scalable for larger plant setups
+1. Convenience, confidence in automation, minimal setup frustration
+
+#### Delighters (Wow Factor)
+1. App can generate historical graphs (nice-to-have beyond real-time data)
+1. Product should not inhibit or damage plants in any way
+1. Product should not emit light
+1. Product should be user repairable
+1. Product needs to be robust, and durable (beyond basic durability)
+
 
 ### Ranking
+Now, with our categorized user needs weighted and scored, we have a clean list of 100 user needs, ranked from highest importance value to lowest.
 
-## Compiled List of User Needs
-1. .
-2. .
-3. .
-4. .
-5. .
-6. ..
-7. .
-8. .
-9. .
-10. .
-11. .
-12. .
-13. .
-14. .
-15. .
-16. .
-17. .
-18. .
-19. .
-20. .
-21. .
-22. .
-23. .
-24. .
-25. .
-26. .
-27. .
-28. .
-29. .
-30. .
-31. .
-32. .
-33. .
-34. .
-35. .
-36. .
-37. .
-38. .
-39. .
-40. .
-41. .
-42. .
-43. .
-44. .
-45. .
-46. .
-47. .
-48. .
-49. .
-50. .
-51. .
-52. .
-53. .
-54. .
-55. .
-56. .
-57. .
-58. .
-59. .
-60. .
-61. .
-62. .
-63. .
-64. .
-65. .
-66. .
-67. .
-68. .
-69. .
-70. .
-71. .
-72. .
-73. .
-74. .
-75. .
-76. .
-77. .
-78. .
-79. .
-80. .
-81. .
-82. .
-83. .
-84. .
-85. .
-86. .
-87. .
-88. .
-89. .
-90. .
-91. .
-92. .
-93. .
-94. .
-95. .
-96. .
-97. .
-98. .
-99. .
-100. .
+**Scoring:** Core needs (Rank 1–40) get scores in the 180–300 range, moderates (41–80) fall in the 40–120 range, and Delighters (81–100) stay below 20.
+
+| Rank | Customer Need                                         | Category  | Weight | Score |
+|------|-------------------------------------------------------|-----------|--------|-------|
+| 1    | Accurate, consistent sensor readings                  | High      | 3      | 300   |
+| 2    | Product is reliable and dependable                    | High      | 3      | 297   |
+| 3    | Automated watering system works consistently          | High      | 3      | 294   |
+| 4    | Easy to set up (no technical skills required)         | High      | 3      | 291   |
+| 5    | Waterproof design (safe for indoor/outdoor use)       | High      | 3      | 288   |
+| 6    | Leak-proof design (no water leakage)                  | High      | 3      | 285   |
+| 7    | Long battery life                                     | High      | 3      | 282   |
+| 8    | Backup power option (AC + battery)                    | High      | 3      | 279   |
+| 9    | Stable app (user-friendly, high quality)              | High      | 3      | 276   |
+| 10   | Alerts for low water, malfunctions, or plant issues   | High      | 3      | 273   |
+| 11   | Sensors last a long time without failure              | High      | 3      | 270   |
+| 12   | Durable build and quality components                  | High      | 3      | 267   |
+| 13   | Stable device connections (WiFi, long-range capable)  | High      | 3      | 264   |
+| 14   | Device electronics are weatherproof for outdoor use   | High      | 3      | 261   |
+| 15   | Product saves user time and reduces effort            | High      | 3      | 258   |
+| 16   | Device logs data (not just real-time readings)        | High      | 3      | 255   |
+| 17   | Calibration procedure included for accuracy           | High      | 3      | 252   |
+| 18   | Good instruction manual for setup                     | High      | 3      | 249   |
+| 19   | Good user manual for troubleshooting                  | High      | 3      | 246   |
+| 20   | Product reduces stress by automating plant care       | High      | 3      | 243   |
+| 21   | Product prevents overwatering reliably                | High      | 3      | 240   |
+| 22   | Consistent watering across multiple plants            | High      | 3      | 237   |
+| 23   | Reliable pump (functional out of the box)             | High      | 3      | 234   |
+| 24   | Product requires minimal maintenance                  | High      | 3      | 231   |
+| 25   | Product supports multi-plant systems                  | High      | 3      | 228   |
+| 26   | Adjustable flow control per plant                     | High      | 3      | 225   |
+| 27   | Flexible for both vacation and daily use              | High      | 3      | 222   |
+| 28   | App allows multi-device control                       | High      | 3      | 219   |
+| 29   | System is safe for long unattended use                | High      | 3      | 216   |
+| 30   | App and firmware receive regular updates              | High      | 3      | 213   |
+| 31   | Product is lightweight and portable                   | High      | 3      | 210   |
+| 32   | App allows user privacy/opt-out permissions           | High      | 3      | 207   |
+| 33   | System handles large temperature ranges               | High      | 3      | 204   |
+| 34   | Setup is quick and straightforward                    | High      | 3      | 201   |
+| 35   | Strong customer support responsiveness                | High      | 3      | 198   |
+| 36   | App connects seamlessly to WiFi                       | High      | 3      | 195   |
+| 37   | Product works indoors and outdoors                    | High      | 3      | 192   |
+| 38   | Reliable automatic watering during vacations          | High      | 3      | 189   |
+| 39   | System scales for larger plant setups                 | High      | 3      | 186   |
+| 40   | High-quality pump and water delivery system           | High      | 3      | 183   |
+| 41   | Deep soil probe option for sensors                    | Moderate  | 2      | 120   |
+| 42   | App allows custom plants with requirements            | Moderate  | 2      | 118   |
+| 43   | User can rename plants in app                         | Moderate  | 2      | 116   |
+| 44   | Data logging is extensive (trend analysis possible)   | Moderate  | 2      | 114   |
+| 45   | Device has good water storage                         | Moderate  | 2      | 112   |
+| 46   | Product has drain holes for easy refill               | Moderate  | 2      | 110   |
+| 47   | Low water level alarm/sensor                          | Moderate  | 2      | 108   |
+| 48   | Product is quiet or silent during operation           | Moderate  | 2      | 106   |
+| 49   | Product is compact and space-efficient                | Moderate  | 2      | 104   |
+| 50   | Easy setup for multiple plants at once                | Moderate  | 2      | 102   |
+| 51   | Consistent hydration for different plant species      | Moderate  | 2      | 100   |
+| 52   | Device reduces manual oversight once running          | Moderate  | 2      | 98    |
+| 53   | Product provides predictable care (peace of mind)     | Moderate  | 2      | 96    |
+| 54   | Easy water refilling without spills                   | Moderate  | 2      | 94    |
+| 55   | Product remains stable and reliable outdoors          | Moderate  | 2      | 92    |
+| 56   | Clear, explicit instruction manual included           | Moderate  | 2      | 90    |
+| 57   | User repair instructions available                    | Moderate  | 2      | 88    |
+| 58   | Device is easily programmable by user                 | Moderate  | 2      | 86    |
+| 59   | System has replaceable connectors                     | Moderate  | 2      | 84    |
+| 60   | Device can be moved and reprogrammed easily           | Moderate  | 2      | 82    |
+| 61   | Backup connectors included                            | Moderate  | 2      | 80    |
+| 62   | Product has memory function for emergencies           | Moderate  | 2      | 78    |
+| 63   | Device can handle daily or vacation modes             | Moderate  | 2      | 76    |
+| 64   | Product provides scalable flexibility                 | Moderate  | 2      | 74    |
+| 65   | Product gives precise watering control                | Moderate  | 2      | 72    |
+| 66   | System is weatherproof and resilient                  | Moderate  | 2      | 70    |
+| 67   | Good quality build prevents breakage                  | Moderate  | 2      | 68    |
+| 68   | Confidence in long-term reliability                   | Moderate  | 2      | 66    |
+| 69   | Reduced setup frustration for new users               | Moderate  | 2      | 64    |
+| 70   | Convenience for busy plant owners                     | Moderate  | 2      | 62    |
+| 71   | Device integrates with indoor farming setups          | Moderate  | 2      | 60    |
+| 72   | Product prevents damage to plants                     | Moderate  | 2      | 58    |
+| 73   | Sensors provide consistent soil moisture tracking     | Moderate  | 2      | 56    |
+| 74   | Product requires minimal learning curve               | Moderate  | 2      | 54    |
+| 75   | Confidence in automation and reliability              | Moderate  | 2      | 52    |
+| 76   | Low maintenance once set up                           | Moderate  | 2      | 50    |
+| 77   | Reduced worry about leaks                             | Moderate  | 2      | 48    |
+| 78   | Device is aesthetically pleasing                      | Moderate  | 2      | 46    |
+| 79   | App ensures peace of mind while away                  | Moderate  | 2      | 44    |
+| 80   | Product optimizes for plant growth outcomes           | Moderate  | 2      | 42    |
+| 81   | App generates historical graphs                       | Delighter | 1      | 20    |
+| 82   | Product robust beyond baseline durability             | Delighter | 1      | 19    |
+| 83   | Device can split hoses for multi-plant setups         | Delighter | 1      | 18    |
+| 84   | Strong LED lights for growth                          | Delighter | 1      | 17    |
+| 85   | LEDs spaced to avoid burning leaves                   | Delighter | 1      | 16    |
+| 86   | Product is user-repairable (sustainability)           | Delighter | 1      | 15    |
+| 87   | Product is fully silent in operation                  | Delighter | 1      | 14    |
+| 88   | Indoor farming accessibility features                 | Delighter | 1      | 13    |
+| 89   | Product can auto-cycle on/off (e.g., every 8h)        | Delighter | 1      | 12    |
+| 90   | Product has a low water alarm integrated with app     | Delighter | 1      | 11    |
+| 91   | System comes with clear emergency repair guide        | Delighter | 1      | 10    |
+| 92   | Backup power seamlessly switches automatically        | Delighter | 1      | 9     |
+| 93   | App provides predictive watering suggestions          | Delighter | 1      | 8     |
+| 94   | Product integrates with smart home systems            | Delighter | 1      | 7     |
+| 95   | System has aesthetic customizations (colors, finishes)| Delighter | 1      | 6     |
+| 96   | App gamifies plant growth (fun factor)                | Delighter | 1      | 5     |
+| 97   | Product uses sustainable/recyclable materials         | Delighter | 1      | 4     |
+| 98   | Device firmware is open-source / hackable             | Delighter | 1      | 3     |
+| 99   | Device prevents any potential root damage             | Delighter | 1      | 2     |
+| 100  | Product has future-proof expansion features           | Delighter | 1      | 1     |
