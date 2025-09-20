@@ -38,9 +38,9 @@ Bob is a part of the local senior center gardening club. He often goes to check 
 
 ## Aspects
 
-Our product will be based on the following aspects and requirements. The P1-P10 scale is used to indicate the priority of each aspect and requirement, based on our user needs generation, scaling from P1, meaning lowest priority, to P10, meaning highest priority.
+Our product will be based on the following aspects and requirements. The **P1-P10** scale is used to indicate the priority of each aspect and requirement, based on our user needs generation, scaling from **P1**, meaning lowest priority, to **P10**, meaning highest priority.
 
-1. Hardware<br>
+1. **Hardware**<br>
    1.1 The product’s sensors shall be resistant to the effects of weather and rain for at least 12 hours of weather. (P10)  
    1.2 The product’s sensors shall have an expected life of at least 2 years. (P9)  
    1.3 The product’s watering system shall be consistent with its dispensing volume within the expected lifespan. (P10)  
@@ -53,7 +53,7 @@ Our product will be based on the following aspects and requirements. The P1-P10 
    1.10 The product’s water tank should be refillable without removing it, and take less than 1 minute to refill. (P8)  
    1.11 The product shall not move when rooted in soil, under the influence of 15 miles per hour winds. (P7)
    
-2. Software<br>
+2. **Software**<br>
    2.1 The product’s sensor readings shall be accurate to the real value of the measurement, with a tolerance of 5%. (P10)  
    2.2 The product shall have a battery life of at least 6 months. (P9)  
    2.3 The product shall be able to connect to a user’s device in under 2 minutes. (P7)  
@@ -68,7 +68,7 @@ Our product will be based on the following aspects and requirements. The P1-P10 
    2.12 The product can switch on or off without losing calibration or memory. (P5)  
    2.13 The product’s app shall remain updated or operate without the need for updating. (P3)  
    
-3. User Experience<br>
+3. **User Experience**<br>
    3.1 The product shall be able to be set up by a moderately experienced user in under 30 minutes. (P9)  
    3.2 The product’s app shall be able to be learned by a moderately experienced user in under 15 minutes. (P9)  
    3.3 The product’s app shall give alerts to the user’s device within 5 minutes of a sensor detecting low water, malfunctions, or plant issues. (P10)  
@@ -77,7 +77,7 @@ Our product will be based on the following aspects and requirements. The P1-P10 
    3.6 The product’s app shall have optional permissions that the user can accept or reject. (P5)  
    3.7 The product’s app shall notify the user if a crash or unexpected outage occurs, providing the date and time. (P4)  
   
-4. Customization<br>
+4. **Customization**<br>
    4.1 The product shall have a range of functional sensors available in 3-foot, 6-foot, 9-foot, and 12-foot lengths. (P7)  
    4.2 The product shall be available in a range of package quantities available in 1 device, 2 devices, and 3 devices. (P7)  
    4.3 The product’s app shall allow the user to create custom plants with custom parameters for the sensors. (P10)  
@@ -85,12 +85,12 @@ Our product will be based on the following aspects and requirements. The P1-P10 
    4.5 The product’s exterior shall be aesthetically pleasing and offered in at least 2 colorways. (P3)  
    4.6 The product shall include LED lights to alert the user as to its current status or activity. (P4)  
    
-5. Manufacturing<br>
+5. **Manufacturing**<br>
    5.1 The product shall be manufacturable using weather-resistant materials while maintaining the price point. (P9)  
    5.2 The product’s manufacturing cost should not exceed $70. (P8)  
    5.3 The product’s casing shall be given a finish for weather resistance and a comfortable feel. (P8)  
    
-6. Safety<br>
+6. **Safety**<br>
    6.1 The product shall not spark or ignite upon exposure to weather conditions like rain or heat waves. (P10)  
    6.2 The product shall have an operating temperature ranging from -40 to 140 degrees Fahrenheit. (P9)  
 
