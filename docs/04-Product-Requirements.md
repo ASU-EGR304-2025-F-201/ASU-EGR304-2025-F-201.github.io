@@ -11,8 +11,17 @@ This project will develop automated, user-customizable irrigation systems. The g
 
 
 ## Stakeholders
-
-- 
+Below are our identified stakeholders in the listed categories, and what kind of features they are looking for in a product like ours.
+### Target group 
+Middle to upper middle-income individuals, of any age, who are either interested in indoor crops and plants or practice small-scale sustainable farming and home gardeners. 
+### Target purchasers 
+Indoor plant owners, enthusiasts, small-scale sustainable farmers, and home gardeners.
+### Customer service 
+Easy-to-repair, self-repair guides, replacement parts, recyclable, and easy-to-fix complaints and FAQs to fit the user's intuitive experience.
+### Marketing & Sales division  
+The product offers automated functionality, recyclable parts, water-sensing meters, and fast-growth LEDs, promoting a sustainable and aesthetic way into a green thumb lifestyle.
+### Retailers 
+The small, compact and lightweight design helps in storage and transportation and keeps the product unaffected by vibrations, it is water proof and is packaged with vandalism proof guidelines in mind.
 
 ## Use Cases
 
