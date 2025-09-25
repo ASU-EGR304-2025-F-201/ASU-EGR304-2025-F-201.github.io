@@ -78,7 +78,7 @@ Our product will be based on the following aspects and requirements. The **P1-P1
    3.7 The product’s app shall notify the user if a crash or unexpected outage occurs, providing the date and time. (P4)  
   
 4. **Customization**<br>
-   4.1 The product shall have a range of functional sensors available in 3-foot, 6-foot, 9-foot, and 12-foot lengths. (P7)  
+   4.1 The product shall have a range of functional sensors available in 3-inch, 6-inch, 9-inch, and 12-inch lengths. (P7)  
    4.2 The product shall be available in a range of package quantities available in 1 device, 2 devices, and 3 devices. (P7)  
    4.3 The product’s app shall allow the user to create custom plants with custom parameters for the sensors. (P10)  
    4.4 The product’s app shall allow the user to rename plants with no changes to that plant’s parameters. (P8)  
