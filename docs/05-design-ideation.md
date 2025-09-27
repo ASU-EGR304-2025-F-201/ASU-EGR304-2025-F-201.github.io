@@ -25,7 +25,8 @@ Add your context and tables
 ## Step Four
 
 ### Smart Gardener
-![Smart Gardener]()
+![Smart Gardener](../image/Smart Gardener Concept.svg)
+Design By: Jacob Alger
 
 ## Step Six (video link)
 Embedded a YouTube video that covers the 
