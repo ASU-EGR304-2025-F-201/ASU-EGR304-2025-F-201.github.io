@@ -152,5 +152,10 @@ Add your context and tables
 ![Smart Gardener](../image/Smart Gardener Concept.svg)
 Design By: Jacob Alger
 
+<img width="1024" height="1024" alt="labeled_final_GORDO" src="https://github.com/user-attachments/assets/7a1b3302-6df1-4138-ab2a-f67eacf0d7ec" />
+Design By: Raunak Singh
+
+
 ## Step Six (video link)
 Embedded a YouTube video that covers the 
+a7bdef4" />
