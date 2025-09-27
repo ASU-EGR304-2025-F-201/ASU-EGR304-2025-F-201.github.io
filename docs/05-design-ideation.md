@@ -163,10 +163,10 @@ The following table shows the features that went into each of our product design
 Here are our product design sketches based on the features from the above table.<br>
 ### Smart Irrigation
 ![Smart Irrigation](../image/Smart Irrigation.svg)
-### Smart Gardener
 Design By: Isaiah Johnston
 <br>
 <br>
+### Smart Gardener
 ![Smart Gardener](../image/Smart Gardener Concept.svg)
 Design By: Jacob Alger
 <br>
