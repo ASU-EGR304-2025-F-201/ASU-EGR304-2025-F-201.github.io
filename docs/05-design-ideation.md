@@ -5,14 +5,16 @@ tags:
 - tag2
 ---
 
-## Intro/overview
+## Overview
 
-On September 24th, 2025 our group met in the library at approximately 4:30 to discuss our upcoming assignment. We started by discussing how we were going to split this assignment and what we were going to do together. We had decided to make the list of features and rank each idea for the need together and distribute the rest of the work evenly. We decided to then take a while and brainstorm different features for our product, as well as rank them based on the different requirements that we had chosen from our previous assignments. During this, all of us contributed to formatting, organizing, and contributing to our excel sheet; which needed to contain a variety of user requirements and needs, as well as ideas of different potential features and details about said features. We had a list of requirements and needs for our plant monitor from a previous assignment, which aided us in coming up with one hundred features for our project as per the assignment guidelines. We took these needs and came up with five unique features for each one. For most of this time we were looking at the different sections that we could come up with simple and easy to make solutions for our product. For the ones that we couldn’t come up with, we turned to the internet and ChatGPT for inspiration. While we mostly got responses with the features we had come up with, it did give us quite a few alternatives and examples of other systems that aided in our brainstorming process. It helped us get ideas for a lot more and eventually we had finished our list. We all contributed and made a fair share of ideas for the list and added details about each idea at a later time. We had some addressing the safety of the product, some that addressed ease of use, as well as some quality of life details. Within these we addressed the pressing issues of using electronic devices in environments with elements that would cause wear and tear on our system. We addressed how we would deal with potential rain, extreme temperatures, and strong winds that could negatively impact how our device would function in harsh environments over time. For each we went over different ideas and used ChatGPT to help us generate some ideas for different aspects of the features such as having a waterproof electronics box. We also had some quality of life requirements such as an easy to use app that allows for multiple systems to connect and work in tandem. These aren’t necessarily needed, however they are qualities that will set us apart from other options. After we had come up with one hundred user needs we decided to start ranking the features 1-5 based on the user need. At this point we went through the list slowly as a group and decided what features were better ideas than others. We had a few that were easy to decide on, like how we should make the system to refill the water. Some however were harder to decide on, like what flow regulators we wanted to use. Often we had very similar features that were hard to rank because they were incredibly close or we didn’t have a preference for one over the other. After doing this we started working on our assigned roles separately throughout the rest of the week. Three of our members worked on sorting the rest of the features and working on their own designs of the products, while one worked on the documentation of this part of our project. Each of the three members who were working on designs took about 20 features from our list of rankings and put them together to make a unique design. They made physical mockups of their design out of materials they had. They also needed to make an electronic vector created version of their design. For this they also need to highlight the different features of their project, showcasing the different features that they chose for their project incorporated into their design. They also needed to provide some sort of a visual story-based representation of their design and what it can do for someone. The way you could make the visual aid was very open, it could be some sort of electronic storyboard/comic, a stop motion video of someone using their potential product, or somewhat of an advertisement for the potential design. 
-
+On September 24th, 2025, our group met in the library at approximately 4:30 to discuss our upcoming assignment. We started by discussing how we were going to split this assignment and what we were going to do together. We had decided to make the list of features and rank each idea for the need together and distribute the rest of the work evenly. We decided to take a while and brainstorm different features for our product, as well as rank them based on the different requirements that we had chosen from our previous assignments. During this, all of us contributed to formatting, organizing, and contributing to our excel sheet; which needed to contain a variety of user requirements and needs, as well as ideas of different potential features and details about said features. We had a list of requirements and needs for our plant monitor from a previous assignment, which aided us in coming up with one hundred features for our project as per the assignment guidelines. We took these needs and came up with five unique features for each one. For most of this time, we were looking at the different sections that we could come up with simple and easy-to-make solutions for our product. For the ones that we couldn’t come up with, we turned to the internet and ChatGPT for inspiration. While we mostly got responses with the features we had come up with, it did give us quite a few alternatives and examples of other systems that aided in our brainstorming process. It helped us get ideas for a lot more, and eventually, we had finished our list. We all contributed and made a fair share of ideas for the list, and added details about each idea at a later time. We had some addressing the safety of the product, some that addressed ease of use, as well as some quality of life details. Within these, we addressed the pressing issues of using electronic devices in environments with elements that would cause wear and tear on our system. We addressed how we would deal with potential rain, extreme temperatures, and strong winds that could negatively impact how our device would function in harsh environments over time. For each, we went over different ideas and used ChatGPT to help us generate some ideas for different aspects of the features, such as having a waterproof electronics box. We also had some quality of life requirements, such as an easy-to-use app that allows for multiple systems to connect and work in tandem. These aren’t necessarily needed; however, they are qualities that will set us apart from other options. After we had come up with one hundred user needs, we decided to start ranking the features 1-5 based on the user needs. At this point, we went through the list slowly as a group and decided which features were better ideas than others. We had a few that were easy to decide on, like how we should make the system to refill the water. Some, however, were harder to decide on, like what flow regulators we wanted to use. Often, we had very similar features that were hard to rank because they were incredibly close, or we didn’t have a preference for one over the other. After doing this, we started working on our assigned roles separately throughout the rest of the week. Three of our members worked on sorting the rest of the features and working on their own designs of the products, while one worked on the documentation of this part of our project. Each of the three members who were working on designs took about 20 features from our list of rankings and put them together to make a unique design. They made physical mockups of their design out of materials they had. They also needed to make an electronic vector-created version of their design. For this, they also need to highlight the different features of their project, showcasing the different features that they chose for their project, incorporated into their design.
+<br>
+Written By: Rylee Wirt
+<br>
 
 ## Generating Ideas
 
-For our top 20 product requirements, we brainstormed 5 different product features that could be used to satisfy those requirements.
+For our top 20 product requirements, we brainstormed 5 different product features that could be used to satisfy those requirements. This table is our initial brainstorming, which was originally done in a Google Sheet.<br>
 
 | Requirement / Needs | Features | Detail |
 |---------------------|----------|--------|
@@ -77,7 +79,7 @@ For our top 20 product requirements, we brainstormed 5 different product feature
 | The product’s connections shall be able to work in parallel with other devices. | Devices Have Built-In Buffers to Prevent Interruptions | |
 | The product’s connections shall be able to work in parallel with other devices. | Connections Have Specific Frequencies | |
 | The product shall include LED lights to alert the user as to its current status or activity. | Lights on the Electronic Box | LED lights on the electronic box alert the user to its status (on/running). |
-| The product shall include LED lights to alert the user as to its current status or activity. | Lights on the Sensors | Little LED lights on the sensors alert the user to its power status. |
+| The product shall include LED lights to alert the user as to its current status or activity. | Lights on the Sensors | Little LED lights on the sensors alert the user to their power status. |
 | The product shall include LED lights to alert the user as to its current status or activity. | Color-Coded Lights for Different Alerts | |
 | The product shall include LED lights to alert the user as to its current status or activity. | App Has Color-Based Indicator | |
 | The product shall include LED lights to alert the user as to its current status or activity. | Morse Code Lights to Spell Out Current Activity | |
@@ -119,9 +121,10 @@ For our top 20 product requirements, we brainstormed 5 different product feature
 
 
 
-## Step Three
+## Ranking
 
-Add your context and tables
+The following table is our ranking of the features, based on the method covered in the Overview. This was originally done in the same Google Sheet as before.<br>
+
 | Requirement / Needs                                                                 | Features Ranked                                                                 |
 |--------------------------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | The product’s sensors shall be resistant to the effects of weather and rain for at least 12 hours of weather. | 1. Hydrophobic Product Cover<br>2. Air Tight Assembly<br>3. Electronics Cover<br>4. Resin Sealed Electronics<br>5. Dielectric Grease |
@@ -147,16 +150,29 @@ Add your context and tables
 
 
 
-## Step Four
+## Product Concept Designs
 
+The following table shows the features that went into each of our product designs. This was done in the same Google Sheet as before.<br>
+
+| Name   | Product Title     | Features |
+|--------|------------------|----------|
+| Isaiah | Smart Irrigation | - Air Tight Assembly<br>- HDPE, LLDPE<br>- Anti-Spark System<br>- Direct Connection to Waterlines<br>- Scheduled Maintenance<br>- Plastic Coated Aluminum<br>- Temperature Detecting Sensor That Notifies Users of Dramatic Rise or Fall of Temperature<br>- User Setup Menu to Adjust Variables<br>- Cell Battery<br>- A Converter<br>- Multiple Spike Anchor for Wider Base<br>- Devices Connect to Central Hub That Connects to Phone<br>- Color Code Lights for Different Alerts<br>- Line-X Type Coating<br>- Swappable Sensors<br>- Noise Maker or Buzzer Sounds on Affected Sensor<br>- A Video Manual<br>- Weekly Printable Report<br>- Peristaltic Pumps<br>- Flow Restrictors |
+| Jacob  | Smart Gardener   | - Electronics Cover<br>- Solid Plastic Tank<br>- Waterproof<br>- Water Cooler Bottle<br>- Recalibrates Every Month<br>- Extruded Plastic<br>- Use Components Suited for Those Temperatures<br>- App Edits Variables in Microcontroller Code<br>- Smart Sleep Mode to Preserve Battery<br>- Backup DC Battery and a Main AC Connector<br>- Clip for Pots<br>- Multiple Device Section in App<br>- Lights on the Electronic Box<br>- Polyurethane<br>- Extendable Probes<br>- App Gives Crash Logs<br>- A Downloadable PDF Manual<br>- Histograms Stored in App<br>- Use Pumps That Make Less Than 40 Decibels of Sound<br>- Hose Bibb |
+| Raunak | GORDO            | - Electronics Cover<br>- Solid Plastic Tank<br>- Waterproof<br>- Removable Lid<br>- Provided Test Kit<br>- Extruded Plastic<br>- Use Components Suited for Those Temperatures<br>- App Edits Variables in Microcontroller Code<br>- Smart Sleep Mode to Preserve Battery<br>- Backup DC Battery and a Main AC Connector<br>- Weighted at the Bottom of Sensors<br>- Multiple Device Section in App<br>- Lights on the Electronic Box<br>- Polyurethane<br>- Extendable Probes<br>- App Gives Crash Logs<br>- A Downloadable PDF Manual<br>- Histograms Stored in App<br>- Use Pumps That Make Less Than 40 Decibels of Sound<br>- Hose Bibb |
+
+Here are our product design sketches based on the features from the above table.<br>
+### Smart Irrigation
+![Smart Irrigation](../image/Smart Irrigation.svg)
 ### Smart Gardener
+Design By: Isaiah Johnston
+<br>
+<br>
 ![Smart Gardener](../image/Smart Gardener Concept.svg)
 Design By: Jacob Alger
-
+<br>
+<br>
+### Gordo the Garden Buddy
 <img width="1024" height="1024" alt="labeled_final_GORDO" src="https://github.com/user-attachments/assets/7a1b3302-6df1-4138-ab2a-f67eacf0d7ec" />
 Design By: Raunak Singh
-
-
-## Step Six (video link)
-Embedded a YouTube video that covers the 
-a7bdef4" />
+<br>
+<br>
