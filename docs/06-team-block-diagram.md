@@ -4,54 +4,13 @@ title: Team Block Diagram
 
 ## Introduction
 
-**Bold Text**
-_Italic Text_
-**_Bold and Italic Text_**
+To get an idea of our product and how we are going to each contribute to its functionalities, we created a block diagram based on the Hub-and-Spoke template provided. Each block represents one of our team members' PCBs, and how they are all going to connect. We chose the Hub-and-spoke because our device is centralized around its auto-watering functionality, and we want the motor to be the hub of operations. Then the light sensor, moisture sensor, and speaker can all work based on the motor, to both control it and receive signals from it, thus those features are our spokes. You can view our block diagram below.
 
-## Research Question
+## Block Diagram
 
-* Bullet Point 1
-* Bullet Point 2
-* Bullet Point 3
+![Block Diagram](../image/team-201-block-diagram.drawio.svg)
 
-## Images
-
-![image caption](https://idealab.asu.edu/assets/images/research/jumper1.png)
-
-![dead bug circuit](Image01.jpg){style width:"350" height:"300;"}
-**Figure 2:** Early PCB working design
-
-
-![showcase](ImageShowcase.png)
-**Figure 3:** Innovation Showcase Spring '25, where the products were a STEM-themed display that demonstrates a single scientific/engineering concept with the intended user of K-12 students interested in learning about science, technology, engineering, or math.
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
 
 ## Conclusions and Future Work
 
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## Results
-
-1. Numbered Point 1
-1. Numbered Point 2
-1. Numbered Point 3
-
-## Conclusions and Future Work
-
-## External Links
-
-[example link to idealab](https://idealab.asu.edu)
-
-
-## References
-
-
+As you can see above, we left out several details, such as power generation, specific circuit schematics, and specific port details on each of our PCBs. This will be expanded upon after this step, as we each split up to begin making block diagrams for each of our PCBs, including all the details left out of the team block diagram above.
