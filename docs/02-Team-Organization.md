@@ -14,6 +14,6 @@ As a team, we discussed what our priorities were from this class and team projec
 
 ## Product Mission Statement
 
-As a team, we created one statement that defines our goal with this project. We hope this statement explains what we hope to achieve with our product.
+As a team, we created a one-sentence statement that defines our goal with this project. We hope this statement explains what we hope to achieve with our product.
 
->Team 201's mission is to design user-oriented, efficient, and well-made products that ease the home lives of our customers.
+>Team 201's mission is to design a user-oriented, efficient, and well-made product that will ease the at-home gardening lives of our customers.
