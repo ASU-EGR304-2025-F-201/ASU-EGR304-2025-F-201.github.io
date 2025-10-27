@@ -170,7 +170,7 @@ Design By: Isaiah Johnston
 ![Smart Gardener](../image/Smart Gardener Concept.svg)
 Design By: Jacob Alger
 <br>
-To see this design in PDF form click [*here*](../resources/Smart Gardener Concept.pdf) and to download the SOLIDWORKS CADD models click [*here*](../resources/Smart_Gardener_Concept.zip)
+To see this design in PDF form click [*here*](../resources/Smart Gardener Concept.pdf) and to download the SOLIDWORKS CAD models click [*here*](../resources/Smart_Gardener_Concept.zip)
 <br>
 <br>
 ### Gordo the Garden Buddy
