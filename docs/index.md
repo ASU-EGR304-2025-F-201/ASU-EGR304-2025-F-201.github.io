@@ -30,9 +30,11 @@ Our team was tasked with developing a product that can improve and streamline ou
 ## Team Members Datasheet links
 You can view each team member's individual datasheets by following the links below. Each datasheet goes into detail about that team member's specific subsystem and how they designed and verified its functionality. Please take the time to review them to get a more in-depth understanding of our project.
 <br>
-| **Team Member**        |**Ind Datasheet Links** |
+---
+| **Team Member**        |**Ind. Datasheet Links** |
 | ---------------------- | -----------------------|
 | Jacob Alger            | [JacobAlger.GitHub](https://jacob-alger.github.io/)|
 | Isaiah Johnston        | [Isaiahcmd.GitHub](https://isaiahcmd.github.io/)|
 | Raunak Singh           | [Ronnie772.GitHub](https://ronnie772.github.io)|
 | Rylee Wirt             | [rmwirt-source.GitHub](https://rmwirt-source.github.io)|
+---
