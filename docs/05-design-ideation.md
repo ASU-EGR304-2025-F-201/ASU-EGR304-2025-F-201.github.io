@@ -178,3 +178,6 @@ To see this design in PDF form click [*here*](../resources/Smart Gardener Concep
 Design By: Raunak Singh
 <br>
 <br>
+
+## Chosen Design Idea
+As a team, we decided to move forward with something resembling "blank". We picked this option because ...
