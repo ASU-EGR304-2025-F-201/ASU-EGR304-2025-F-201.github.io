@@ -9,7 +9,7 @@ tags:
 
 On September 24th, 2025, our group met in the library at approximately 4:30 to discuss our upcoming assignment. We started by discussing how we were going to split this assignment and what we were going to do together. We had decided to make the list of features and rank each idea for the need together and distribute the rest of the work evenly. We decided to take a while and brainstorm different features for our product, as well as rank them based on the different requirements that we had chosen from our previous assignments. During this, all of us contributed to formatting, organizing, and contributing to our excel sheet; which needed to contain a variety of user requirements and needs, as well as ideas of different potential features and details about said features. We had a list of requirements and needs for our plant monitor from a previous assignment, which aided us in coming up with one hundred features for our project as per the assignment guidelines. We took these needs and came up with five unique features for each one. For most of this time, we were looking at the different sections that we could come up with simple and easy-to-make solutions for our product. For the ones that we couldn’t come up with, we turned to the internet and ChatGPT for inspiration. While we mostly got responses with the features we had come up with, it did give us quite a few alternatives and examples of other systems that aided in our brainstorming process. It helped us get ideas for a lot more, and eventually, we had finished our list. We all contributed and made a fair share of ideas for the list, and added details about each idea at a later time. We had some addressing the safety of the product, some that addressed ease of use, as well as some quality of life details. Within these, we addressed the pressing issues of using electronic devices in environments with elements that would cause wear and tear on our system. We addressed how we would deal with potential rain, extreme temperatures, and strong winds that could negatively impact how our device would function in harsh environments over time. For each, we went over different ideas and used ChatGPT to help us generate some ideas for different aspects of the features, such as having a waterproof electronics box. We also had some quality of life requirements, such as an easy-to-use app that allows for multiple systems to connect and work in tandem. These aren’t necessarily needed; however, they are qualities that will set us apart from other options. After we had come up with one hundred user needs, we decided to start ranking the features 1-5 based on the user needs. At this point, we went through the list slowly as a group and decided which features were better ideas than others. We had a few that were easy to decide on, like how we should make the system to refill the water. Some, however, were harder to decide on, like what flow regulators we wanted to use. Often, we had very similar features that were hard to rank because they were incredibly close, or we didn’t have a preference for one over the other. After doing this, we started working on our assigned roles separately throughout the rest of the week. Three of our members worked on sorting the rest of the features and working on their own designs of the products, while one worked on the documentation of this part of our project. Each of the three members who were working on designs took about 20 features from our list of rankings and put them together to make a unique design. They made physical mockups of their design out of materials they had. They also needed to make an electronic vector-created version of their design. For this, they also need to highlight the different features of their project, showcasing the different features that they chose for their project, incorporated into their design.
 <br>
-Written By: Rylee Wirt
+>Written By: Rylee Wirt
 <br>
 
 ## Generating Ideas
@@ -163,19 +163,19 @@ The following table shows the features that went into each of our product design
 Here are our product design sketches based on the features from the above table.<br>
 ### Smart Irrigation
 ![Smart Irrigation](../image/Smart Irrigation.svg)
-Design By: Isaiah Johnston
+>Design By: Isaiah Johnston
 <br>
 <br>
 ### Smart Gardener
 ![Smart Gardener](../image/Smart Gardener Concept.svg)
-Design By: Jacob Alger
+>Design By: Jacob Alger
 <br>
 To see this design in PDF form click [*here*](../resources/Smart Gardener Concept.pdf) and to download the SOLIDWORKS CAD models click [*here*](../resources/Smart_Gardener_Concept.zip)
 <br>
 <br>
 ### Gordo the Garden Buddy
 <img width="1024" height="1024" alt="labeled_final_GORDO" src="https://github.com/user-attachments/assets/7a1b3302-6df1-4138-ab2a-f67eacf0d7ec" />
-Design By: Raunak Singh
+>Design By: Raunak Singh
 <br>
 <br>
 
