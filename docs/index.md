@@ -37,4 +37,4 @@ You can view each team member's individual datasheets by following the links bel
 | Isaiah Johnston        | [Isaiahcmd.GitHub](https://isaiahcmd.github.io/)|
 | Raunak Singh           | [Ronnie772.GitHub](https://ronnie772.github.io)|
 | Rylee Wirt             | [rmwirt-source.GitHub](https://rmwirt-source.github.io)|
----
+
