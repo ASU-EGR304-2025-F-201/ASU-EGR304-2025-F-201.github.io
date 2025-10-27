@@ -180,4 +180,4 @@ Design By: Raunak Singh
 <br>
 
 ## Chosen Design Idea
-As a team, we decided to move forward with something resembling "blank". We picked this option because ...
+As a team, we decided to move forward with something resembling a bit of each good idea we had from all of our designs. We decided to make our design ideas in isolation, so that our individual ideas would shine through, and then as a team we could pick what we liked best from each one. For example, we picked the name "Garden Buddy" as it was the catchiest name that we came up with through our individual design ideation process. Overall, our final design will mirror a bit of each, and will most likely continue to evolve as our project progresses.
