@@ -18,13 +18,14 @@ To gain a better understanding of our connections, please refer to *Table 1* bel
 
 *Table 1: Pin Connection Table*
 <br>
+
 | Subsystem Exiting     | Exit Pin / Ribbon Pin | Subsystem Entering | Enter Pin / Ribbon Pin | Signal Type | Purpose  |
 |-----------------------|-----------------------|--------------------|------------------------|-------------|---------|
 | Light Sensor           | RD7/1                 | Speaker            | RB0/1                 | Digital      | Main Low Light Signal sent to Speaker to alert user.|
 | Moisture Sensor        | RD3/1                 | Motor              | RF4/1                 | Digital      | Sends 1 to keep motor off, sends 0 to turn motor on.|
 | Moisture Sensor        | RE0/5                 | Speaker            | RA2/5                 | Digital      | Sends status (high) continuously; if signal stops, speaker beeps.  |
 
-
+<br>
 
 ## Conclusions and Future Work
 
