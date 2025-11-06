@@ -744,12 +744,46 @@
 <h2 id="subsystem-connection-table">Subsystem Connection Table</h2>
 <p>To gain a better understanding of our connections, please refer to <em>Table 1</em> below, which outlines the path from subsystem exit to subsystem entrance.</p>
 <p><em>Table 1: Pin Connection Table</em>
-<br>
-| Subsystem Exiting     | Exit Pin / Ribbon Pin | Subsystem Entering | Enter Pin / Ribbon Pin | Signal Type | Purpose  |
-|-----------------------|-----------------------|--------------------|------------------------|-------------|---------|
-| Light Sensor           | RD7/1                 | Speaker            | RB0/1                 | Digital      | Main Low Light Signal sent to Speaker to alert user.|
-| Moisture Sensor        | RD3/1                 | Motor              | RF4/1                 | Digital      | Sends 1 to keep motor off, sends 0 to turn motor on.|
-| Moisture Sensor        | RE0/5                 | Speaker            | RA2/5                 | Digital      | Sends status (high) continuously; if signal stops, speaker beeps.  |</p>
+<br></p>
+<table>
+<thead>
+<tr>
+<th>Subsystem Exiting</th>
+<th>Exit Pin / Ribbon Pin</th>
+<th>Subsystem Entering</th>
+<th>Enter Pin / Ribbon Pin</th>
+<th>Signal Type</th>
+<th>Purpose</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Light Sensor</td>
+<td>RD7/1</td>
+<td>Speaker</td>
+<td>RB0/1</td>
+<td>Digital</td>
+<td>Main Low Light Signal sent to Speaker to alert user.</td>
+</tr>
+<tr>
+<td>Moisture Sensor</td>
+<td>RD3/1</td>
+<td>Motor</td>
+<td>RF4/1</td>
+<td>Digital</td>
+<td>Sends 1 to keep motor off, sends 0 to turn motor on.</td>
+</tr>
+<tr>
+<td>Moisture Sensor</td>
+<td>RE0/5</td>
+<td>Speaker</td>
+<td>RA2/5</td>
+<td>Digital</td>
+<td>Sends status (high) continuously; if signal stops, speaker beeps.</td>
+</tr>
+</tbody>
+</table>
+<p><br></p>
 <h2 id="conclusions-and-future-work">Conclusions and Future Work</h2>
 <p>To see each individual block diagram in greater detail, please visit the individual datasheets linked on the home page of this website. As we begin prototyping, these specific pins may change; however, the system should function with the current pin connections.</p>
 
