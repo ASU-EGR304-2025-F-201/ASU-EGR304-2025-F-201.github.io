@@ -21,4 +21,4 @@ The two videos demonstrating the testing are in the following links.
 
 [Video 1](https://drive.google.com/file/d/12GmMwj7wd6zCxj9SGFYwA6X1xIR-G3co/view?usp=drive_link) [youtube_1](https://youtube.com/shorts/C-wd-mp8sfM?feature=share)
 
-[Video 2](https://drive.google.com/file/d/12AXr5Rkxh3daVKBqYu9xXy3qxgMHmqWw/view?usp=drive_link) [youtube](https://youtu.be/AnvqiU68s2Q)
+[Video 2](https://drive.google.com/file/d/12AXr5Rkxh3daVKBqYu9xXy3qxgMHmqWw/view?usp=drive_link) [youtube_2](https://youtu.be/AnvqiU68s2Q)
