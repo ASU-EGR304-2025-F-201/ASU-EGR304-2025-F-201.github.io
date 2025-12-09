@@ -21,7 +21,7 @@ There are many prospective issues with this proposal that we wish to address. Si
 1. At the time of testing the components for the moisture sensor had not been received so the code was designed to simulate changing moisture levels so the data transmision to different subsystems could be observed.
 2. The software design originally featured a buzzer, but after we were told that did not satisfy the complexity requirements of the project, it was switched back to a speaker subsystem.
 3. The light sensor subsystem originally featured a transistor, but this would have given a digital signal, not an analog signal. Therefore, the system changed to featuring just the op-amp amplified signal straight to the microcontroller.
-4. .
+4. During testing we saw the speaker trigger from small sensor noise. We fixed this by adding an idle state check so the system waits for both sensors to settle before alerting. This removed the false triggers and made the subsystem more reliable.
 5. .
 
 ## Version 2.0
