@@ -838,7 +838,7 @@
 <li>At the time of testing the components for the moisture sensor had not been received so the code was designed to simulate changing moisture levels so the data transmision to different subsystems could be observed.</li>
 <li>The software design originally featured a buzzer, but after we were told that did not satisfy the complexity requirements of the project, it was switched back to a speaker subsystem.</li>
 <li>The light sensor subsystem originally featured a transistor, but this would have given a digital signal, not an analog signal. Therefore, the system changed to featuring just the op-amp amplified signal straight to the microcontroller.</li>
-<li>.</li>
+<li>During testing we saw the speaker trigger from small sensor noise. We fixed this by adding an idle state check so the system waits for both sensors to settle before alerting. This removed the false triggers and made the subsystem more reliable.</li>
 <li>.</li>
 </ol>
 <h2 id="version-20">Version 2.0</h2>
