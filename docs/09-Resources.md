@@ -2,7 +2,7 @@
 title: Resources
 ---
 
-# Final System Demonstration
+## Final System Demonstration
 
 ![Final Photo](../image/EGR304-Team201-Final_Photo.png)
 **Figure 1: Final Photo of our System on Breadboards**
@@ -14,4 +14,4 @@ The two videos demonstrating the testing are below. Please click the thumbnails 
 [![YouTube Video 2](https://img.youtube.com/vi/AnvqiU68s2Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=AnvqiU68s2Q)
 
 ## Resources
-
+**Smart Gardener Concept:** [PDF](../resources/Smart Gardener Concept.pdf), [SOLIDWORKS CAD ZIP](../resources/Smart_Gardener_Concept.zip)
