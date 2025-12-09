@@ -19,17 +19,17 @@ To learn what kind of home improvement device we should make, we brainstormed se
 ##### Positive Comments
 | Voice of the Customer | Restated Customer Need |
 | --------------------- | ---------------------- |
-| “If you have Home Assistant and BLE working, this product is awesome. The iPhone app is not bad but it would be nice to allow for historical graphs. The graphing capability for home assistant includes luminance, microsiemens per centimeter, moisture, and temperature.” | 1. App can store data and generate historical graphs (Explicit)<br>2. Device will track important data related to the plant (Latent) |
-| “This is very easy to use. Have app installed and insert the device in soil. Perfect to record soil temperature. However it won't give any other information in case of any issues with the plant. Worth the price. Am keep changing every week for all my problematic plants. Wish to buy another one.” | 1. App will alert any detectable issues with the plant (Explicit)<br>2. Device can be moved and reprogrammed easily (Latent)<br>3. Price should be worth value of device (Explicit) |
-| “I bought three of these about a year ago, and forgot to change the batteries in them. They seem to get about 3 months of battery life, if you aren't syncing then constantly? They work great, though. Only issue with device is that I wish the Bluetooth range was longer. The app, though, could use some work… You can't create your own plant, though, you have to select from the options and accept the light and water requirements it gives. And it goes by scientific name, but it does let you rename them now… I just set up my newest one… still super quick and easy to pair. It's difficult opening the back, but I'm okay with that considering I leave some of them outside in the PNW rains. It also doesn't alert you when things are dry, you have to check on it manually... ” | 1. Device can have long range connections (Explicit)<br>2. Device will give several types of alerts that could be relevant (Latent)<br>3. User can add custom plants with custom requirements to sensor (Explicit)<br>4. User can rename plants in app (Explicit)<br>5. Device electronics are protected from weather and outdoor elements (Latent) |
-| “The instructions are kind of garbage and direct you to scan a QR code to download the app… my phone threw up an immediate red flag. I recommend only installing apps that are in the app store… it works with both the "Mi Home" app and "Flowercare". Mi Flora is difficult. I was never able to find the sensor to add, so I gave up...another worthless account created out there in the ether. Flowercare was much easier to use, and I was able to add the sensor pretty easily… About 5 mins later it stopped sending data. Again, ready to send it back. However, I also had the phone app open (which is nice BTW). It can only send to one device at a time. When I closed the phone app, it started sending to HA again. All in all, I'm pleased with it.” | 1. Only 1 app for the device that is high quality and user-friendly (Explicit)<br>2. Device connections are stable and stay connected (Latent)<br>3. Instructions for device and app should be well made (Explicit)<br>4. App can connect to several devices at the same time (Latent) |
+| “If you have Home Assistant and BLE working, this product is awesome. The iPhone app is not bad but it would be nice to allow for historical graphs. The graphing capability for home assistant includes luminance, microsiemens per centimeter, moisture, and temperature.” | 1. Can store data and generate historical graphs (Explicit)<br>2. Device will track important data related to the plant (Latent) |
+| “This is very easy to use. Have app installed and insert the device in soil. Perfect to record soil temperature. However it won't give any other information in case of any issues with the plant. Worth the price. Am keep changing every week for all my problematic plants. Wish to buy another one.” | 1. Will alert any detectable issues with the plant (Explicit)<br>2. Device can be moved and reprogrammed easily (Latent)<br>3. Price should be worth value of device (Explicit) |
+| “I bought three of these about a year ago, and forgot to change the batteries in them. They seem to get about 3 months of battery life, if you aren't syncing then constantly? They work great, though. Only issue with device is that I wish the Bluetooth range was longer. The app, though, could use some work… You can't create your own plant, though, you have to select from the options and accept the light and water requirements it gives. And it goes by scientific name, but it does let you rename them now… I just set up my newest one… still super quick and easy to pair. It's difficult opening the back, but I'm okay with that considering I leave some of them outside in the PNW rains. It also doesn't alert you when things are dry, you have to check on it manually... ” | 1. Device can have long range connections (Explicit)<br>2. Device will give several types of alerts that could be relevant (Latent)<br>3. User can add custom plants with custom requirements to sensor (Explicit)<br>4. User can rename plants in  (Explicit)<br>5. Device electronics are protected from weather and outdoor elements (Latent) |
+| “The instructions are kind of garbage and direct you to scan a QR code to download the app… my phone threw up an immediate red flag. I recommend only installing apps that are in the app store… it works with both the "Mi Home" app and "Flowercare". Mi Flora is difficult. I was never able to find the sensor to add, so I gave up...another worthless account created out there in the ether. Flowercare was much easier to use, and I was able to add the sensor pretty easily… About 5 mins later it stopped sending data. Again, ready to send it back. However, I also had the phone app open (which is nice BTW). It can only send to one device at a time. When I closed the phone app, it started sending to HA again. All in all, I'm pleased with it.” | 1. Only 1 additional product for the device that is high quality and user-friendly (Explicit)<br>2. Device connections are stable and stay connected (Latent)<br>3. Instructions for device should be well made (Explicit)<br>4. Can connect to several devices at the same time (Latent) |
 
 ##### Negative Comments
 | Voice of the Customer | Restated Customer Need |
 | --------------------- | ---------------------- |
-| “I so wanted to give this a high rating, however the app won't download for the latest version of Android, so it's basically useless.” | 1. App stay up to date so it keeps working (Explicit)<br>2. App can be backwards compatible with older phones (Latent) |
+| “I so wanted to give this a high rating, however the app won't download for the latest version of Android, so it's basically useless.” | 1. Product should stay up to date so it keeps working (Explicit)<br>2. Can be backwards compatible with older devices (Latent) |
 | “Do not buy!!! Look at the app it asks you to download “flower care” and it has abysmal reviews all mentioning the connection issues and broke functionality. Several report the sensors just stop working as well.” | 1. Sensors keep working for a long time (Explicit) |
-| “Mine died quickly. I've removed the app. Would not recommend… I'm using them outdoors, dry summer, in 1 foot deep standing boxes. I found them hard to set up and hard to connect requiring many attempts to reconnect before success whether inside or our next to the device, even when holding the device in hand. Moisture levels regularly show low % moisture when soil is moist to touch or much higher when tested with other meters (I have several direct reading meters that give results comparable to each other, but different from this meter). I bought three meters of this brand. They give different results when placed side- by- side. Soil fertility remains low even after applying water souluable fertilizer. I don't trust these. The app is of limited value. You must associate each meter with a specific target plant. The app does not include the plant varieties I plant and I can't seem to add any plants to the database. It is difficult to exit the app without signing out. The permissions required to use the app are excessive for a poor quality app. I do appreciate that the app shows a history of records, though I'm not currently confident in the ?daily average? results. I would prefer a more open app, friendlier permissions with easy opt out provisions, a longer probe to at least 8" depth, more consistent results, better connection success. I do not recommend this version… I'll be looking for improved versions.” | 1. App allows the user to opt-out of permissions and is designed with user privacy in mind (Explicit)<br>2. Sensor can reach into deep soil for better readings (Explicit)<br>3. Sensors give accurate and consistent information (Explicit) |
+| “Mine died quickly. I've removed the app. Would not recommend… I'm using them outdoors, dry summer, in 1 foot deep standing boxes. I found them hard to set up and hard to connect requiring many attempts to reconnect before success whether inside or our next to the device, even when holding the device in hand. Moisture levels regularly show low % moisture when soil is moist to touch or much higher when tested with other meters (I have several direct reading meters that give results comparable to each other, but different from this meter). I bought three meters of this brand. They give different results when placed side- by- side. Soil fertility remains low even after applying water souluable fertilizer. I don't trust these. The app is of limited value. You must associate each meter with a specific target plant. The app does not include the plant varieties I plant and I can't seem to add any plants to the database. It is difficult to exit the app without signing out. The permissions required to use the app are excessive for a poor quality app. I do appreciate that the app shows a history of records, though I'm not currently confident in the ?daily average? results. I would prefer a more open app, friendlier permissions with easy opt out provisions, a longer probe to at least 8" depth, more consistent results, better connection success. I do not recommend this version… I'll be looking for improved versions.” | 1. Allows the user to opt-out of permissions and is designed with user privacy in mind (Explicit)<br>2. Sensor can reach into deep soil for better readings (Explicit)<br>3. Sensors give accurate and consistent information (Explicit) |
 
 
 #### 2. [ECOWITT GW1206 Soil Moisture Tester Kit](https://www.amazon.com/ECOWITT-GW1206-Moisture-Tester-Gateway/dp/B0DD42VGPD/ref=sr_1_5?crid=FMIFM96BNE0T&dib=eyJ2IjoiMSJ9.Yg7b0PpwagFXZCXNs33EVNiG22Si2AcaRO9T5hZJxQbc9jxIFbJfD5-WRJmCXvBPXED3T7d8TdzbQXjsKHChP7iEfm8QZ9D1EsGhKrjSGH6X17c6D70oJAc_ay_SPp8fAgIKoiNibcNNS1Ef9eRr2l4Hd6OQAWi_KYyBRSJn3vo5-ycup-iXCayh4q4RkYf5mzWLb0sOD_BrZw8zrxACECTAKICTf5HkyYEa1QKlINQrFfdyLn-P0KN1hnZB9jQozCBNdvfnp_OpqWz5YM_VvmNBb1BP09PIsQ-L5veBPag.y6VnW35_nWzDJcxMsgo45bgOiuw3UfuY5d47W6vGWps&dib_tag=se&keywords=ecowitt%2Bsmart%2Bwater%2Btimer%2B%2B%2BSENSOR%2BKIT&qid=1757894636&sprefix=ecowitt%2Bsmart%2Bwater%2Btimer%2B%2B%2Bsensor%2Bkit%2Caps%2C147&sr=8-5&th=1)
@@ -119,19 +119,19 @@ To learn what kind of home improvement device we should make, we brainstormed se
 ##### Positive Comments
 | Voice of the Customer | Restated Customer Need |
 | --------------------- | ---------------------- |
-| "This product works great and it kept my plants healthy all winter when I brought them inside my house. I purchased it because we were going to be gone for a month with plants left indoor and I decided to give this product a try. The feeding line would need to be cut for each plant/pot and the only downside in this case is that I will have to have the same setup every time I bring my pots inside but I took pictures and video so I can replicate it next year. Product setup was very easy and it worked great. The app can be designed better for setting up watering frequency but I figured it out. You will need to setup an account if you want to access it while you are away from home else it can also be used with just Bluetooth and you don't need to have an account setup if you want to use it that way. This tells me that company is not interested in collecting your data. It worked so well that after returning back from our trip, I decided to leave it for the rest of the winter and used this system for irrigation. It actually worked better because watering frequency is consistent and you can figure out what works for the plants. In addition, you can setup water flow for each plant by adjusting how much water flow it will need based on the size of the pot and plant. I will be using this every winter for watering my plants. I would highly recommend this product." | 1. Reliable plant watering system, easy setup, works for indoor plants during extended absences (Explicit)<br>2. Easy to set up, maintains plant health, works via app or Bluetooth (Explicit)<br>3. Peace of mind while away, predictable plant care, non-intrusive (Latent) |
+| "This product works great and it kept my plants healthy all winter when I brought them inside my house. I purchased it because we were going to be gone for a month with plants left indoor and I decided to give this product a try. The feeding line would need to be cut for each plant/pot and the only downside in this case is that I will have to have the same setup every time I bring my pots inside but I took pictures and video so I can replicate it next year. Product setup was very easy and it worked great. The app can be designed better for setting up watering frequency but I figured it out. You will need to setup an account if you want to access it while you are away from home else it can also be used with just Bluetooth and you don't need to have an account setup if you want to use it that way. This tells me that company is not interested in collecting your data. It worked so well that after returning back from our trip, I decided to leave it for the rest of the winter and used this system for irrigation. It actually worked better because watering frequency is consistent and you can figure out what works for the plants. In addition, you can setup water flow for each plant by adjusting how much water flow it will need based on the size of the pot and plant. I will be using this every winter for watering my plants. I would highly recommend this product." | 1. Reliable plant watering system, easy setup, works for indoor plants during extended absences (Explicit)<br>2. Easy to set up, maintains plant health, works via wireless/external connection (Explicit)<br>3. Peace of mind while away, predictable plant care, non-intrusive (Latent) |
 | "I was looking for something to help water plants while away on long trips and gave this a try based on other reviews. After a lot of trial and error, I am super happy with this product and will share some tips that hopefully help: 1. The product doesn't specify drip rate so this was a little tough to figure out. I use it for my herbs and veggies and found it works well with the drippers wide open and running for 30 min every other day for my veggie plants. For my herbs, I run it for 15 min every other day. For this reason, I like the cycle water feature over the schedule feature. Cycle water allows you to run it every other day, whereas schedule requires you to pick which days of the week you want to run it. This time frame works well for my thirsty tomatoes, peppers and herbs. 2. You can split the hose in multiple directions! I have one pump that branches off in two separate directions and it doesn't affect water flow. This was a lifesaver as I didn't want to buy a third system just for a few herbs. See photos for more details. 3. The unit is waterproof but the plug itself is not. I keep both pumps in a small husky box to keep everything dry. I got a couple railing planter hooks to hold the box off the side of my planter. I keep water in a large plastic tote that fits perfectly under the planter. 4. The anti backflow valve prevented the pump from working. I ditched it and it's been running smoothly ever since. I haven't noticed any issues with leaking, either. Make sure you connect the hose all the way to prevent leaks. 5. Aim the drippers at the base of your plants. I was hoping they would magically water the entire planter, but they only cover a small area. This is part of why I run it for so long. Hang on to your extra hose and drippers! This will be helpful if you add or move plants." | 1. Customizable watering for different plants, ability to split hoses, waterproof system, avoids overwatering (Explicit)<br>2. Adjustable drip rate, multiple plant watering, waterproof pump, proper setup prevents leaks (Explicit)<br>3. Efficiency in watering diverse plants, low maintenance, minimal worry about leaks (Latent) |
 | "I am using the Letpot watering device in a deep water culture (DWC) grow room. It took about a week to get the watering levels exactly where I wanted them because while you can water multiple plants at one time, there is only one siphon from your water source. So, you have to adjust the flow for each plant accordingly. Very easily done, it just takes a little tweaking. If I was using soil instead of DWC, the proper amount to water is even easier to determine. Great little product that makes my gardening life MUCH easier." | 1. Precise watering control, works for multiple plants at once, adjustable flow per plant (Explicit)<br>2. Flexibility to water different plant setups (Explicit)<br>3. Optimization for plant growth, minimal manual oversight once set (Latent) |
 | "I was surprised how high quality this is for the price. The tubbing and emitters are really nice. The pump is plenty strong, right now it is watering 12 pots in our green wall with no problem. Packaging was beautiful. App works great. All in all really happy with my purchase!" | 1. High-quality system, strong pump, supports multiple plants (Explicit)<br>2. Durable tubing and emitters, strong pump, works for multiple pots (Explicit)<br>3. Confidence in reliability, scalable for larger plant setups (Latent) |
 | "Bought and set up this plant watering system ahead of my 17 day vacation to keep my plants watered and alive while I was away. Setting up the watering station was straight forward and simple. I also setup WiFi connectivity so that I could control watering remotely. While I was away, I set it to Cycle watering. This kept my plants well hydrated and I am happy to say, my plants all looked healthy when I returned. One issue I had was using the Scheduled Watering feature. It seems more complicated than it needs to be, so I used the Cycle Watering feature instead. Another issue is that the hose connection to the device will leak if you do not properly adjust the water flow of each dripper. This is all explained in the manual. Other than that, it works fine for my needs. I like it so much, I will be purchasing another for my outdoor plants." | 1. Reliable automatic watering for vacations, simple setup, remote control via WiFi (Explicit)<br>2. Easy scheduling, works remotely, adjustable flow per plant (Explicit)<br>3. Peace of mind, stress-free plant care while away, consistent hydration (Latent) |
-| "Awesome product bought it to use while I would be out of town but works great for everyday use also. I put it inside an electrical whether proof box as the plug itself is not waterproof absolutely love this product connected seamlessly to WiFi and Bluetooth easy to set schedules and app is user friendly highly recommended! When I returned from vacation I was very pleased to see how much my plants have grown!" | 1. Flexible for vacation or daily use, seamless connectivity, user-friendly app (Explicit)<br>2. Connectivity via WiFi/Bluetooth, easy scheduling (Explicit)<br>3. Convenience, confidence in automation, minimal setup frustration (Latent) |
+| "Awesome product bought it to use while I would be out of town but works great for everyday use also. I put it inside an electrical whether proof box as the plug itself is not waterproof absolutely love this product connected seamlessly to WiFi and Bluetooth easy to set schedules and app is user friendly highly recommended! When I returned from vacation I was very pleased to see how much my plants have grown!" | 1. Flexible for vacation or daily use, seamless connectivity, user-friendly (Explicit)<br>2. Connectivity via WiFi/Bluetooth, easy scheduling (Explicit)<br>3. Convenience, confidence in automation, minimal setup frustration (Latent) |
 
 ##### Negative Comments
 | Voice of the Customer | Restated Customer Need |
 | --------------------- | ---------------------- |
-| "I bought this for my plants while on vacation and it did not work as expected. The water flow to the drippers was inconsistent and some of my plants did not get watered at all. Setup was more complicated than I anticipated, and I spent way too much time adjusting everything. The app was confusing and didn’t make it easier. Overall, I am disappointed and will not be purchasing again." | 1. Consistent watering for all plants, easy setup, intuitive app (Explicit)<br>2. Predictable watering, simple setup, user-friendly app (Explicit)<br>3. Trust in automation, peace of mind during trips, reduced frustration (Latent) |
+| "I bought this for my plants while on vacation and it did not work as expected. The water flow to the drippers was inconsistent and some of my plants did not get watered at all. Setup was more complicated than I anticipated, and I spent way too much time adjusting everything. The app was confusing and didn’t make it easier. Overall, I am disappointed and will not be purchasing again." | 1. Consistent watering for all plants, easy setup, intuitive (Explicit)<br>2. Predictable watering, simple setup, user-friendly (Explicit)<br>3. Trust in automation, peace of mind during trips, reduced frustration (Latent) |
 | "The system arrived quickly but when I tried to use it, the pump didn’t work. I followed the instructions but it kept shutting off. I had to contact customer service multiple times and it took a while to get a replacement part. Once fixed, it worked okay, but I expected better reliability for the price." | 1. Reliable pump, functional out of the box, responsive customer support (Explicit)<br>2. Working pump, replacement support (Explicit)<br>3. Confidence in product quality, minimal downtime, reassurance (Latent) |
-| "I tried to set up the scheduled watering but the app kept crashing. I could not connect it to WiFi and had to rely on Bluetooth. It’s hard to adjust the flow for multiple plants and the instructions are not very clear. Works better for one or two plants, not for a whole garden." | 1. Stable app, easy WiFi connection, adjustable watering for multiple plants (Explicit)<br>2. Functional app, multiple plant support (Explicit)<br>3. Convenience, reduced stress, efficient watering for many plants (Latent) |
+| "I tried to set up the scheduled watering but the app kept crashing. I could not connect it to WiFi and had to rely on Bluetooth. It’s hard to adjust the flow for multiple plants and the instructions are not very clear. Works better for one or two plants, not for a whole garden." | 1. Stable, easy WiFi connection, adjustable watering for multiple plants (Explicit)<br>2. Functional, multiple plant support (Explicit)<br>3. Convenience, reduced stress, efficient watering for many plants (Latent) |
 | "I didn’t realize the plug is not waterproof. After a rainy day, the system stopped working and I had to dry it out completely before it would work again. This is not ideal for outdoor use." | 1. Weatherproof system, reliable operation outdoors (Explicit)<br>2. Waterproof plug, safe in rain (Explicit)<br>3. Worry-free outdoor use, durability, minimal maintenance (Latent) |
 
 
@@ -149,17 +149,17 @@ Below are a few images of our note-taking process to create the user needs for t
 To sort through all of our user needs, we then categorized all of them into four categories, ranging from critical features that are required to meet our customers' satisfaction, to features that would be nice to include but don't make an overall difference in our design.
 
 #### Critical (Must-Have)
-1. App can store data and generate historical graphs
-1. App will alert any detectable issues with plant
+1. Product can store data and generate historical graphs
+1. Product will alert any detectable issues with plant
 1. Price should be worth value of device
 1. Device can have long range connections
 1. User can add custom plants with custom requirements to sensor
-1. User can rename plants in app
-1. Only 1 app for the device that is high quality and user-friendly
-1. Instructions for device and app should be well made
-1. App stay up to date so it keeps working
+1. User can rename plants in product
+1. Only 1 external product for the device that is high quality and user-friendly
+1. Instructions for device should be well made
+1. Producy stay up to date so it keeps working
 1. Sensors keep working for a long time
-1. App allows the user to opt-out of permissions and is designed with user privacy in mind
+1. Product allows the user to opt-out of permissions and is designed with user privacy in mind
 1. Sensor can reach into deep soil for better readings
 1. Sensors give accurate and consistent information
 1. Product needs to be accurate and reliable
@@ -187,9 +187,9 @@ To sort through all of our user needs, we then categorized all of them into four
 1. Product should have good quality components
 1. Product should have good quality built so it doesn't break easily
 1. Reliable plant watering system, easy setup, works for indoor plants during extended absences
-1. Consistent watering for all plants, easy setup, intuitive app
+1. Consistent watering for all plants, easy setup, intuitive
 1. Reliable pump, functional out of the box, responsive customer support
-1. Stable app, easy WiFi connection, adjustable watering for multiple plants
+1. Stable product, easy WiFi connection, adjustable watering for multiple plants
 1. Weatherproof system, reliable operation outdoors
 
 #### High (Very Important)
@@ -198,7 +198,7 @@ To sort through all of our user needs, we then categorized all of them into four
 1. Device will give several types of alerts that could be relevant
 1. Device electronics are protected from weather and outdoor elements
 1. Device connections are stable and stay connected
-1. App can connect to several devices at the same time
+1. Product can connect to several devices at the same time
 1. Product needs to be durable
 1. Product needs to save consumer time, and reduce effort
 1. Product needs to log data not just present current measurements
@@ -215,7 +215,7 @@ To sort through all of our user needs, we then categorized all of them into four
 1. Precise watering control, works for multiple plants at once, adjustable flow per plant
 1. High-quality system, strong pump, supports multiple plants
 1. Reliable automatic watering for vacations, simple setup, remote control via WiFi
-1. Flexible for vacation or daily use, seamless connectivity, user-friendly app
+1. Flexible for vacation or daily use, seamless connectivity, user-friendly
 1. Customizable watering for different plants, ability to split hoses, waterproof system, avoids overwatering
 
 #### Moderate (Nice-to-Have)
@@ -235,7 +235,7 @@ To sort through all of our user needs, we then categorized all of them into four
 1. Convenience, confidence in automation, minimal setup frustration
 
 #### Delighters (Wow Factor)
-1. App can generate historical graphs (nice-to-have beyond real-time data)
+1. Product can generate historical graphs (nice-to-have beyond real-time data)
 1. Product should not inhibit or damage plants in any way
 1. Product should not emit light
 1. Product should be user repairable
@@ -259,7 +259,7 @@ Now, with our categorized user needs weighted and scored, we have a clean list o
 | 6    | Leak-proof design (no water leakage)                  | High      | 3      | 285   |
 | 7    | Long battery life                                     | High      | 3      | 282   |
 | 8    | Backup power option (AC + battery)                    | High      | 3      | 279   |
-| 9    | Stable app (user-friendly, high quality)              | High      | 3      | 276   |
+| 9    | Stable (user-friendly, high quality)              | High      | 3      | 276   |
 | 10   | Alerts for low water, malfunctions, or plant issues   | High      | 3      | 273   |
 | 11   | Sensors last a long time without failure              | High      | 3      | 270   |
 | 12   | Durable build and quality components                  | High      | 3      | 267   |
@@ -278,22 +278,22 @@ Now, with our categorized user needs weighted and scored, we have a clean list o
 | 25   | Product supports multi-plant systems                  | High      | 3      | 228   |
 | 26   | Adjustable flow control per plant                     | High      | 3      | 225   |
 | 27   | Flexible for both vacation and daily use              | High      | 3      | 222   |
-| 28   | App allows multi-device control                       | High      | 3      | 219   |
+| 28   | Allows multi-device control                       | High      | 3      | 219   |
 | 29   | System is safe for long unattended use                | High      | 3      | 216   |
-| 30   | App and firmware receive regular updates              | High      | 3      | 213   |
+| 30   | Firmware receive regular updates              | High      | 3      | 213   |
 | 31   | Product is lightweight and portable                   | High      | 3      | 210   |
-| 32   | App allows user privacy/opt-out permissions           | High      | 3      | 207   |
+| 32   | Allows user privacy/opt-out permissions           | High      | 3      | 207   |
 | 33   | System handles large temperature ranges               | High      | 3      | 204   |
 | 34   | Setup is quick and straightforward                    | High      | 3      | 201   |
 | 35   | Strong customer support responsiveness                | High      | 3      | 198   |
-| 36   | App connects seamlessly to WiFi                       | High      | 3      | 195   |
+| 36   | Product connects seamlessly to WiFi                       | High      | 3      | 195   |
 | 37   | Product works indoors and outdoors                    | High      | 3      | 192   |
 | 38   | Reliable automatic watering during vacations          | High      | 3      | 189   |
 | 39   | System scales for larger plant setups                 | High      | 3      | 186   |
 | 40   | High-quality pump and water delivery system           | High      | 3      | 183   |
 | 41   | Deep soil probe option for sensors                    | Moderate  | 2      | 120   |
-| 42   | App allows custom plants with requirements            | Moderate  | 2      | 118   |
-| 43   | User can rename plants in app                         | Moderate  | 2      | 116   |
+| 42   | Product allows custom plants with requirements            | Moderate  | 2      | 118   |
+| 43   | User can rename plants in product                         | Moderate  | 2      | 116   |
 | 44   | Data logging is extensive (trend analysis possible)   | Moderate  | 2      | 114   |
 | 45   | Device has good water storage                         | Moderate  | 2      | 112   |
 | 46   | Product has drain holes for easy refill               | Moderate  | 2      | 110   |
@@ -329,9 +329,9 @@ Now, with our categorized user needs weighted and scored, we have a clean list o
 | 76   | Low maintenance once set up                           | Moderate  | 2      | 50    |
 | 77   | Reduced worry about leaks                             | Moderate  | 2      | 48    |
 | 78   | Device is aesthetically pleasing                      | Moderate  | 2      | 46    |
-| 79   | App ensures peace of mind while away                  | Moderate  | 2      | 44    |
+| 79   | Product ensures peace of mind while away                  | Moderate  | 2      | 44    |
 | 80   | Product optimizes for plant growth outcomes           | Moderate  | 2      | 42    |
-| 81   | App generates historical graphs                       | Delighter | 1      | 20    |
+| 81   | Product generates historical graphs                       | Delighter | 1      | 20    |
 | 82   | Product robust beyond baseline durability             | Delighter | 1      | 19    |
 | 83   | Device can split hoses for multi-plant setups         | Delighter | 1      | 18    |
 | 84   | Strong LED lights for growth                          | Delighter | 1      | 17    |
@@ -340,13 +340,13 @@ Now, with our categorized user needs weighted and scored, we have a clean list o
 | 87   | Product is fully silent in operation                  | Delighter | 1      | 14    |
 | 88   | Indoor farming accessibility features                 | Delighter | 1      | 13    |
 | 89   | Product can auto-cycle on/off (e.g., every 8h)        | Delighter | 1      | 12    |
-| 90   | Product has a low water alarm integrated with app     | Delighter | 1      | 11    |
+| 90   | Product has a low water alarm integrated     | Delighter | 1      | 11    |
 | 91   | System comes with clear emergency repair guide        | Delighter | 1      | 10    |
 | 92   | Backup power seamlessly switches automatically        | Delighter | 1      | 9     |
-| 93   | App provides predictive watering suggestions          | Delighter | 1      | 8     |
+| 93   | Product provides predictive watering suggestions          | Delighter | 1      | 8     |
 | 94   | Product integrates with smart home systems            | Delighter | 1      | 7     |
 | 95   | System has aesthetic customizations (colors, finishes)| Delighter | 1      | 6     |
-| 96   | App gamifies plant growth (fun factor)                | Delighter | 1      | 5     |
+| 96   | Product gamifies plant growth (fun factor)                | Delighter | 1      | 5     |
 | 97   | Product uses sustainable/recyclable materials         | Delighter | 1      | 4     |
 | 98   | Device firmware is open-source / hackable             | Delighter | 1      | 3     |
 | 99   | Device prevents any potential root damage             | Delighter | 1      | 2     |
