@@ -17,6 +17,8 @@ Our software diagram in draw.io can be found ["here"](https://viewer.diagrams.ne
 ## Conclusions
 There are many prospective issues with this proposal that we wish to address. Since this is a project for the EGR 304 class, we need to maintain the class project requirements and build our system so that it can be demonstrated in a lab setting. However, for an actual product, we would ideally make several changes. First, the light sensor would not alert the second it receives low light, but instead measure the readings over a day's time and report its findings to the user the next day, so they could consider moving their plant to receive more sunlight. Then, the buzzer subsystem would most likely be replaced with a connection to an app, where, instead of audio alerts, the app would send push notifications to the user so they know the status of their plant without being annoyed by constant sounds coming from the device.
 
+## Changes to Design
+
 ## Version 2.0
 - **Light Sensor:**
 - **Moisture Sensor:**
