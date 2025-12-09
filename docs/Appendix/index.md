@@ -20,5 +20,7 @@ In the video the moisture sensor simulates drying soil. When the soil reaches a 
 The two videos demonstrating the testing are in the following links.
 
 [Video 1](https://drive.google.com/file/d/12GmMwj7wd6zCxj9SGFYwA6X1xIR-G3co/view?usp=drive_link) [youtube_1](https://youtube.com/shorts/C-wd-mp8sfM?feature=share)
+[![YouTube Video 1](https://img.youtube.com/vi/C-wd-mp8sfM/maxresdefault.jpg)](https://www.youtube.com/watch?v=C-wd-mp8sfM)
 
 [Video 2](https://drive.google.com/file/d/12AXr5Rkxh3daVKBqYu9xXy3qxgMHmqWw/view?usp=drive_link) [youtube_2](https://youtu.be/AnvqiU68s2Q)
+[![YouTube Video 2](https://img.youtube.com/vi/AnvqiU68s2Q/maxresdefault.jpg)](https://www.youtube.com/watch?v=AnvqiU68s2Q)
