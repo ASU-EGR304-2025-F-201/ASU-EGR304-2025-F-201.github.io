@@ -847,7 +847,8 @@
 <li><strong>Moisture Sensor:</strong>
    The next version of this moisture sensing subsystem will be powered by a lithium potassium battery to allow for testing outside. An LCD display will be added to allow the testing team to easily check the readings the micro controller is recieving. A plastic housing will be 3d printed to protect the internal components from water and soil durning testing. The code will be reworked to allow full fuctionallity of the sensing, data display and data transmission.</li>
 <li><strong>Motor:</strong></li>
-<li><strong>Speaker:</strong></li>
+<li><strong>Speaker:</strong>
+The next iteration would be designed to react faster and work more smoothly with the rest of the system. Right now the firmware plays alert tones using long delays, which means the microcontroller has to sit and wait during each beep. This works for simple alerts, but it also means the subsystem cannot pay attention to new sensor events until the sound finishes. In a future version we would change this to a non blocking timing approach so the speaker can keep playing tones while the microcontroller continues checking sensors. This would make the subsystem feel much more responsive and connected to the rest of the Garden Buddy system.</li>
 </ul>
 
 
